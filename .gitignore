@@ -1,0 +1,18 @@
+# bundles and temporary scraper files
+*.js
+*.html
+*.txt
+decode_bundle.py
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

@@ -1,0 +1,92 @@
+[
+  {
+    "id": 7,
+    "name": "Ростелеком",
+    "image": "/media/partners/487441fb7e0f42c7a9ab7dc73e9282cb.png",
+    "description": null,
+    "site_link": "https://ekaterinburg.rt-internet.ru/",
+    "created_at": "2026-10-01T11:17:21.608614",
+    "is_available": true
+  },
+  {
+    "id": 4,
+    "name": "Оптивера",
+    "image": "/media/partners/2a8485f5e76c41c0957d8969be2de9c4.png",
+    "description": null,
+    "site_link": "https://optivera.ru/",
+    "created_at": "2026-09-23T05:34:50.267092",
+    "is_available": true
+  },
+  {
+    "id": 9,
+    "name": "Мотив",
+    "image": "/media/partners/373f7458009e4158b0833a34535d36e9.png",
+    "description": null,
+    "site_link": "https://motivtelecom.ru/",
+    "created_at": "2026-10-01T11:18:17.948444",
+    "is_available": true
+  },
+  {
+    "id": 10,
+    "name": "Искра Технологии",
+    "image": "/media/partners/57f58c97aeae4d91ab503aeff2102ab1.png",
+    "description": null,
+    "site_link": "https://iskratechno.ru/",
+    "created_at": "2026-10-01T11:18:25.519201",
+    "is_available": true
+  },
+  {
+    "id": 3,
+    "name": "Инсис",
+    "image": "/media/partners/3fb7678f26694a54bc6097d2ebb02a24.png",
+    "description": null,
+    "site_link": "https://profintel.ru/",
+    "created_at": "2026-09-23T05:34:46.988255",
+    "is_available": true
+  },
+  {
+    "id": 8,
+    "name": "Главный радиочастотный центр",
+    "image": "/media/partners/36a4cc26587d40c5925e14a50f617b38.png",
+    "description": null,
+    "site_link": "https://grfc.ru/grfc/",
+    "created_at": "2026-10-01T11:18:02.424172",
+    "is_available": true
+  },
+  {
+    "id": 2,
+    "name": "Большой брат сервис",
+    "image": "/media/partners/1dfbac086fa1486dadd05daf87860925.png",
+    "description": null,
+    "site_link": "https://xn--80abafotcp0abyclej4g3c.xn--p1ai/",
+    "created_at": "2026-09-23T05:34:43.749358",
+    "is_available": true
+  },
+  {
+    "id": 1,
+    "name": "Банк Санкт-Петербург",
+    "image": "/media/partners/e84f31604b894f87ace1c2c8795c6ec0.png",
+    "description": null,
+    "site_link": "https://www.bspb.ru/",
+    "created_at": "2026-09-23T05:34:39.766815",
+    "is_available": true
+  },
+  {
+    "id": 6,
+    "name": "Sevencom",
+    "image": "/media/partners/56e9e9ff907d40f0bdd79b21095d80e7.png",
+    "description": null,
+    "site_link": "https://www.sevencom.ru/",
+    "created_at": "2026-09-23T05:34:58.790795",
+    "is_available": true
+  },
+  {
+    "id": 5,
+    "name": "DATARK",
+    "image": "/media/partners/ab7b8edefdf645998e274b4e17796bf1.png",
+    "description": null,
+    "site_link": "https://datark.ru/",
+    "created_at": "2026-09-23T05:34:55.056762",
+    "is_available": true
+  }
+]

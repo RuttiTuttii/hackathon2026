@@ -1,0 +1,57 @@
+name: sync data
+
+on:
+  schedule:
+    # Запуск каждые 4 часа
+    - cron: "0 */4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Configure SSH fallback (if secrets provided)
+        env:
+          SSH_KEY: ${{ secrets.SSH_KEY }}
+          SSH_HOST: ${{ secrets.SSH_HOST }}
+          SSH_USER: ${{ secrets.SSH_USER }}
+        if: env.SSH_KEY != ''
+        run: |
+          mkdir -p ~/.ssh
+          echo "$SSH_KEY" > ~/.ssh/id_ed25519
+          chmod 600 ~/.ssh/id_ed25519
+          cat <<EOF >> ~/.ssh/config
+          Host msk
+            HostName ${{ secrets.SSH_HOST }}
+            User ${{ secrets.SSH_USER || 'root' }}
+            IdentityFile ~/.ssh/id_ed25519
+            StrictHostKeyChecking no
+          EOF
+
+      - name: Run sync script
+        run: |
+          python scripts/sync_data.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/ README.md docs/
+          if git diff --staged --quiet; then
+            echo "Изменений нет, данные актуальны."
+          else
+            git commit -m "chore(data): автоматическое обновление слотов и регистраций [skip ci]"
+            git push
+          fi
