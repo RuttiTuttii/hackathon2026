@@ -1,5 +1,112 @@
 [
   {
+    "id": 7,
+    "name": "boss",
+    "institution": "Уральский технический институт связи и информатики",
+    "amount_participants": 2,
+    "participation_form": "Очная",
+    "level_education": "бакалавриат/специалитет",
+    "selected_case": 2,
+    "spare_case": 3,
+    "captain_phone": "+7 (993) 133-30-34",
+    "captain_email": "artur24455012@gmail.com",
+    "curator_data": {
+      "fio": "Митьковская Анастасия Александровна ",
+      "phone": "+7 (912) 689-12-43"
+    },
+    "agreement": true,
+    "acquaintance": true,
+    "created_at": "2026-10-05T17:09:57.358120",
+    "is_available": true,
+    "participants": [
+      {
+        "id": 31,
+        "fio": "Петров Артур Алексеевич",
+        "course": 1,
+        "role": "капитан",
+        "registration_id": 7,
+        "created_at": "2026-10-05T17:09:57.358120",
+        "is_available": true
+      },
+      {
+        "id": 32,
+        "fio": "Петров Артур Александрович",
+        "course": 1,
+        "role": "участник",
+        "registration_id": 7,
+        "created_at": "2026-10-05T17:09:57.358120",
+        "is_available": true
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "MaxTac",
+    "institution": "Смоленский колледж телекоммуникаций (филиал) СПбГУТ",
+    "amount_participants": 5,
+    "participation_form": "Дистанционная",
+    "level_education": "спо 9класс",
+    "selected_case": 5,
+    "spare_case": 4,
+    "captain_phone": "+7 (920) 303-95-29",
+    "captain_email": "andrejkalinovskij2008@gmail.com",
+    "curator_data": {
+      "fio": "Шаманова Оксана Олеговна",
+      "phone": "+7 (908) 282-78-26"
+    },
+    "agreement": true,
+    "acquaintance": true,
+    "created_at": "2026-10-05T15:42:45.209753",
+    "is_available": true,
+    "participants": [
+      {
+        "id": 26,
+        "fio": "Калиновский Андрей Александрович",
+        "course": 3,
+        "role": "капитан",
+        "registration_id": 6,
+        "created_at": "2026-10-05T15:42:45.209753",
+        "is_available": true
+      },
+      {
+        "id": 27,
+        "fio": "Антоненков Глеб Александрович",
+        "course": 3,
+        "role": "участник",
+        "registration_id": 6,
+        "created_at": "2026-10-05T15:42:45.209753",
+        "is_available": true
+      },
+      {
+        "id": 28,
+        "fio": "Ткачев Данил Петрович",
+        "course": 3,
+        "role": "участник",
+        "registration_id": 6,
+        "created_at": "2026-10-05T15:42:45.209753",
+        "is_available": true
+      },
+      {
+        "id": 29,
+        "fio": "Комкин Дмитрий Сергеевич",
+        "course": 3,
+        "role": "участник",
+        "registration_id": 6,
+        "created_at": "2026-10-05T15:42:45.209753",
+        "is_available": true
+      },
+      {
+        "id": 30,
+        "fio": "Давыдов Денис Юрьевич",
+        "course": 3,
+        "role": "участник",
+        "registration_id": 6,
+        "created_at": "2026-10-05T15:42:45.209753",
+        "is_available": true
+      }
+    ]
+  },
+  {
     "id": 5,
     "name": "Штангенциркуль ",
     "institution": "УрТИСИ СибГУТИ",
