@@ -10,7 +10,7 @@
     "partner_image": "/media/partners/3fb7678f26694a54bc6097d2ebb02a24.png",
     "is_available": true,
     "teams_count": 10,
-    "registered_teams_count": 2,
+    "registered_teams_count": 3,
     "created_at": "2026-09-23"
   },
   {
@@ -38,7 +38,7 @@
     "partner_image": "/media/partners/36a4cc26587d40c5925e14a50f617b38.png",
     "is_available": true,
     "teams_count": 10,
-    "registered_teams_count": 1,
+    "registered_teams_count": 2,
     "created_at": "2026-09-23"
   },
   {
@@ -52,7 +52,7 @@
     "partner_image": "/media/partners/2a8485f5e76c41c0957d8969be2de9c4.png",
     "is_available": true,
     "teams_count": 10,
-    "registered_teams_count": 0,
+    "registered_teams_count": 1,
     "created_at": "2026-09-23"
   },
   {
@@ -66,7 +66,7 @@
     "partner_image": "/media/partners/487441fb7e0f42c7a9ab7dc73e9282cb.png",
     "is_available": true,
     "teams_count": 10,
-    "registered_teams_count": 4,
+    "registered_teams_count": 10,
     "created_at": "2026-09-23"
   },
   {

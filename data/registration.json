@@ -1,5 +1,572 @@
 [
   {
+    "id": 21,
+    "name": "ЧуМные УрТИСЯТА",
+    "institution": "УрТИСИ СибГУТИ",
+    "amount_participants": 4,
+    "participation_form": "Очная",
+    "level_education": "бакалавриат/специалитет",
+    "selected_case": 5,
+    "spare_case": 3,
+    "captain_phone": "+7 (982) 198-71-45",
+    "captain_email": "vils052005@yandex.ru",
+    "curator_data": {
+      "fio": "Тупицын Константин Михайлович",
+      "phone": "+7 (902) 500-38-85"
+    },
+    "agreement": true,
+    "acquaintance": true,
+    "created_at": "2026-10-06T10:58:17.339261",
+    "is_available": true,
+    "participants": [
+      {
+        "id": 85,
+        "fio": "Богданов Владислав Сергеевич",
+        "course": 5,
+        "role": "капитан",
+        "registration_id": 21,
+        "created_at": "2026-10-06T10:58:17.339261",
+        "is_available": true
+      },
+      {
+        "id": 86,
+        "fio": "Арнаутова Екатерина Дмитриевна",
+        "course": 5,
+        "role": "участник",
+        "registration_id": 21,
+        "created_at": "2026-10-06T10:58:17.339261",
+        "is_available": true
+      },
+      {
+        "id": 87,
+        "fio": "Шумовский Матвей Владимирович",
+        "course": 5,
+        "role": "участник",
+        "registration_id": 21,
+        "created_at": "2026-10-06T10:58:17.339261",
+        "is_available": true
+      },
+      {
+        "id": 88,
+        "fio": "Афанасьев Александр Анатольевич",
+        "course": 5,
+        "role": "участник",
+        "registration_id": 21,
+        "created_at": "2026-10-06T10:58:17.339261",
+        "is_available": true
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "ООО \"бнял\"",
+    "institution": "УрТИСИ СибГУТИ",
+    "amount_participants": 5,
+    "participation_form": "Дистанционная",
+    "level_education": "спо 9класс",
+    "selected_case": 5,
+    "spare_case": 6,
+    "captain_phone": "+7 (909) 702-11-07",
+    "captain_email": "soroka0620@gmail.com",
+    "curator_data": {
+      "fio": "Казанцев Михаил Юрьевич",
+      "phone": "+7 (982) 630-87-17"
+    },
+    "agreement": true,
+    "acquaintance": true,
+    "created_at": "2026-10-06T10:47:44.913640",
+    "is_available": true,
+    "participants": [
+      {
+        "id": 80,
+        "fio": "Шестаков Артём Евгеньевич",
+        "course": 4,
+        "role": "участник",
+        "registration_id": 20,
+        "created_at": "2026-10-06T10:47:44.913640",
+        "is_available": true
+      },
+      {
+        "id": 81,
+        "fio": "Шаламов Александр Юрьевич",
+        "course": 4,
+        "role": "участник",
+        "registration_id": 20,
+        "created_at": "2026-10-06T10:47:44.913640",
+        "is_available": true
+      },
+      {
+        "id": 82,
+        "fio": "Сорокин Артём Алексеевич",
+        "course": 4,
+        "role": "капитан",
+        "registration_id": 20,
+        "created_at": "2026-10-06T10:47:44.913640",
+        "is_available": true
+      },
+      {
+        "id": 83,
+        "fio": "Демин Кирилл Александрович",
+        "course": 4,
+        "role": "участник",
+        "registration_id": 20,
+        "created_at": "2026-10-06T10:47:44.913640",
+        "is_available": true
+      },
+      {
+        "id": 84,
+        "fio": "Сухоцкий Максим Александрович",
+        "course": 4,
+        "role": "участник",
+        "registration_id": 20,
+        "created_at": "2026-10-06T10:47:44.913640",
+        "is_available": true
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "FoxStudios",
+    "institution": "УрТИСИ СибГУТИ",
+    "amount_participants": 4,
+    "participation_form": "Очная",
+    "level_education": "бакалавриат/специалитет",
+    "selected_case": 5,
+    "spare_case": 4,
+    "captain_phone": "+7 (798) 410-59-09",
+    "captain_email": "egorskryabin14@gmail.com",
+    "curator_data": {
+      "fio": "Казанцев Михаил Юрьевич",
+      "phone": "+7 (982) 630-87-17"
+    },
+    "agreement": true,
+    "acquaintance": true,
+    "created_at": "2026-10-06T10:19:28.778283",
+    "is_available": true,
+    "participants": [
+      {
+        "id": 76,
+        "fio": "Сайкин Данил Дмитриевич",
+        "course": 4,
+        "role": "участник",
+        "registration_id": 19,
+        "created_at": "2026-10-06T10:19:28.778283",
+        "is_available": true
+      },
+      {
+        "id": 77,
+        "fio": "Семенюта Кирилл Александрович",
+        "course": 4,
+        "role": "участник",
+        "registration_id": 19,
+        "created_at": "2026-10-06T10:19:28.778283",
+        "is_available": true
+      },
+      {
+        "id": 78,
+        "fio": "Скрябин Егор Иннокентьевич",
+        "course": 4,
+        "role": "капитан",
+        "registration_id": 19,
+        "created_at": "2026-10-06T10:19:28.778283",
+        "is_available": true
+      },
+      {
+        "id": 79,
+        "fio": "Вадим Потапов Викторович",
+        "course": 4,
+        "role": "участник",
+        "registration_id": 19,
+        "created_at": "2026-10-06T10:19:28.778283",
+        "is_available": true
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "МОРГЕНШТЕРН",
+    "institution": "УрТИСИ СибГУТИ",
+    "amount_participants": 5,
+    "participation_form": "Очная",
+    "level_education": "спо 11класс",
+    "selected_case": 4,
+    "spare_case": 6,
+    "captain_phone": "+7 (992) 022-07-51",
+    "captain_email": "artur.karumov@gmail.com",
+    "curator_data": {
+      "fio": "Абрашов Максим Александрович",
+      "phone": "+7 (908) 915-04-18"
+    },
+    "agreement": true,
+    "acquaintance": true,
+    "created_at": "2026-10-06T09:46:49.794290",
+    "is_available": true,
+    "participants": [
+      {
+        "id": 71,
+        "fio": "Каримов Артур Ильдарович",
+        "course": 3,
+        "role": "капитан",
+        "registration_id": 17,
+        "created_at": "2026-10-06T09:46:49.794290",
+        "is_available": true
+      },
+      {
+        "id": 72,
+        "fio": "Глушков Кирилл Владимирович",
+        "course": 3,
+        "role": "участник",
+        "registration_id": 17,
+        "created_at": "2026-10-06T09:46:49.794290",
+        "is_available": true
+      },
+      {
+        "id": 73,
+        "fio": "Евенко Дмитрий Викторович",
+        "course": 3,
+        "role": "участник",
+        "registration_id": 17,
+        "created_at": "2026-10-06T09:46:49.794290",
+        "is_available": true
+      },
+      {
+        "id": 74,
+        "fio": "Зоятинов Адэль Камилевич",
+        "course": 3,
+        "role": "участник",
+        "registration_id": 17,
+        "created_at": "2026-10-06T09:46:49.794290",
+        "is_available": true
+      },
+      {
+        "id": 75,
+        "fio": "Кочесова Юлия Николаевна",
+        "course": 3,
+        "role": "участник",
+        "registration_id": 17,
+        "created_at": "2026-10-06T09:46:49.794290",
+        "is_available": true
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Толстые пальцы ",
+    "institution": "УрТИСИ СибГУТИ ",
+    "amount_participants": 5,
+    "participation_form": "Очная",
+    "level_education": "бакалавриат/специалитет",
+    "selected_case": 3,
+    "spare_case": 2,
+    "captain_phone": "+7 (963) 040-05-01",
+    "captain_email": "radcenkomihail147@gmail.com",
+    "curator_data": {
+      "fio": "Глушко Милла Игоревна ",
+      "phone": "+7 (969) 609-03-90"
+    },
+    "agreement": true,
+    "acquaintance": true,
+    "created_at": "2026-10-06T09:39:37.069436",
+    "is_available": true,
+    "participants": [
+      {
+        "id": 66,
+        "fio": "Радченко Михаил Евгеньевич",
+        "course": 1,
+        "role": "капитан",
+        "registration_id": 16,
+        "created_at": "2026-10-06T09:39:37.069436",
+        "is_available": true
+      },
+      {
+        "id": 67,
+        "fio": "Стрелин Антон Константинович",
+        "course": 1,
+        "role": "участник",
+        "registration_id": 16,
+        "created_at": "2026-10-06T09:39:37.069436",
+        "is_available": true
+      },
+      {
+        "id": 68,
+        "fio": "Шейко Алексей Александрович",
+        "course": 1,
+        "role": "участник",
+        "registration_id": 16,
+        "created_at": "2026-10-06T09:39:37.069436",
+        "is_available": true
+      },
+      {
+        "id": 69,
+        "fio": "Кизеров Станислав Сергеевич",
+        "course": 1,
+        "role": "участник",
+        "registration_id": 16,
+        "created_at": "2026-10-06T09:39:37.069436",
+        "is_available": true
+      },
+      {
+        "id": 70,
+        "fio": "Лежнёв Вадим Игоревич",
+        "course": 1,
+        "role": "участник",
+        "registration_id": 16,
+        "created_at": "2026-10-06T09:39:37.069436",
+        "is_available": true
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Магистраль 3.0",
+    "institution": "УрТИСИ СибГУТИ",
+    "amount_participants": 5,
+    "participation_form": "Очная",
+    "level_education": "бакалавриат/специалитет",
+    "selected_case": 5,
+    "spare_case": 4,
+    "captain_phone": "+7 (996) 660-03-96",
+    "captain_email": "icyobsidian1@gmail.com",
+    "curator_data": {
+      "fio": "Юрченко Евгения Владимировна",
+      "phone": "+7 (904) 389-08-43"
+    },
+    "agreement": true,
+    "acquaintance": true,
+    "created_at": "2026-10-06T09:05:02.732858",
+    "is_available": true,
+    "participants": [
+      {
+        "id": 61,
+        "fio": "Абалаков Павел Альбертович",
+        "course": 3,
+        "role": "капитан",
+        "registration_id": 15,
+        "created_at": "2026-10-06T09:05:02.732858",
+        "is_available": true
+      },
+      {
+        "id": 62,
+        "fio": "Цыбульский Игорь Олегович",
+        "course": 3,
+        "role": "участник",
+        "registration_id": 15,
+        "created_at": "2026-10-06T09:05:02.732858",
+        "is_available": true
+      },
+      {
+        "id": 63,
+        "fio": "Зырянов Михаил Максимович",
+        "course": 3,
+        "role": "участник",
+        "registration_id": 15,
+        "created_at": "2026-10-06T09:05:02.732858",
+        "is_available": true
+      },
+      {
+        "id": 64,
+        "fio": "Григорьева Полина Игоревна",
+        "course": 4,
+        "role": "участник",
+        "registration_id": 15,
+        "created_at": "2026-10-06T09:05:02.732858",
+        "is_available": true
+      },
+      {
+        "id": 65,
+        "fio": "Черепанова Наталья Викторовна",
+        "course": 4,
+        "role": "участник",
+        "registration_id": 15,
+        "created_at": "2026-10-06T09:05:02.732858",
+        "is_available": true
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "не палиндром ",
+    "institution": "Архангельский колледж телекоммуникаций ",
+    "amount_participants": 5,
+    "participation_form": "Очная",
+    "level_education": "спо 9класс",
+    "selected_case": 5,
+    "spare_case": 4,
+    "captain_phone": "+7 (921) 088-66-92",
+    "captain_email": "vaceslavvlasov420@gmail.com",
+    "curator_data": {
+      "fio": "Садовский Роман Викторович ",
+      "phone": "+7 (996) 502-15-92"
+    },
+    "agreement": true,
+    "acquaintance": true,
+    "created_at": "2026-10-06T08:57:58.010853",
+    "is_available": true,
+    "participants": [
+      {
+        "id": 56,
+        "fio": "Власов Вячеслав Валентинович",
+        "course": 4,
+        "role": "капитан",
+        "registration_id": 14,
+        "created_at": "2026-10-06T08:57:58.010853",
+        "is_available": true
+      },
+      {
+        "id": 57,
+        "fio": "Луканин Захар Андреевич",
+        "course": 4,
+        "role": "участник",
+        "registration_id": 14,
+        "created_at": "2026-10-06T08:57:58.010853",
+        "is_available": true
+      },
+      {
+        "id": 58,
+        "fio": "Пятовский Вадим Валентинович",
+        "course": 4,
+        "role": "участник",
+        "registration_id": 14,
+        "created_at": "2026-10-06T08:57:58.010853",
+        "is_available": true
+      },
+      {
+        "id": 59,
+        "fio": "Панов Матвей Иванович",
+        "course": 4,
+        "role": "участник",
+        "registration_id": 14,
+        "created_at": "2026-10-06T08:57:58.010853",
+        "is_available": true
+      },
+      {
+        "id": 60,
+        "fio": "Павлов Андрей Александрович",
+        "course": 4,
+        "role": "участник",
+        "registration_id": 14,
+        "created_at": "2026-10-06T08:57:58.010853",
+        "is_available": true
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Связисты Аль Денте ",
+    "institution": "УРТИСИ СибГУТИ",
+    "amount_participants": 4,
+    "participation_form": "Очная",
+    "level_education": "бакалавриат/специалитет",
+    "selected_case": 1,
+    "spare_case": 3,
+    "captain_phone": "+7 (908) 904-14-86",
+    "captain_email": "serafimlavelin@mail.ru",
+    "curator_data": {
+      "fio": "Юрченко Евгения Владимировна ",
+      "phone": "+7 (904) 389-08-43"
+    },
+    "agreement": true,
+    "acquaintance": true,
+    "created_at": "2026-10-06T08:29:33.521864",
+    "is_available": true,
+    "participants": [
+      {
+        "id": 52,
+        "fio": "Лавелин Серафим Александрович",
+        "course": 1,
+        "role": "капитан",
+        "registration_id": 13,
+        "created_at": "2026-10-06T08:29:33.521864",
+        "is_available": true
+      },
+      {
+        "id": 53,
+        "fio": "Нурсаяпов Денис Ринатович",
+        "course": 1,
+        "role": "участник",
+        "registration_id": 13,
+        "created_at": "2026-10-06T08:29:33.521864",
+        "is_available": true
+      },
+      {
+        "id": 54,
+        "fio": "Федорович Дмитрий Евгеньевич",
+        "course": 1,
+        "role": "участник",
+        "registration_id": 13,
+        "created_at": "2026-10-06T08:29:33.521864",
+        "is_available": true
+      },
+      {
+        "id": 55,
+        "fio": "Горев Никита Евгеньевич",
+        "course": 1,
+        "role": "участник",
+        "registration_id": 13,
+        "created_at": "2026-10-06T08:29:33.521864",
+        "is_available": true
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "крутые_перцы_2014",
+    "institution": "Архангельский колледж телекоммуникаций им. Б. Л. Розинга (филиал) федерального государственного бюджетного образовательного учреждения высшего образования \"Санкт-Петербургский государственный университет телекоммуникаций им. проф. М. А. Бонч-Бруевича\"",
+    "amount_participants": 4,
+    "participation_form": "Дистанционная",
+    "level_education": "спо 9класс",
+    "selected_case": 5,
+    "spare_case": 4,
+    "captain_phone": "+7 (911) 583-69-90",
+    "captain_email": "eegorradin3@gmail.com",
+    "curator_data": {
+      "fio": "Маломан Юлия Сергеевна",
+      "phone": "+7 (911) 583-69-90"
+    },
+    "agreement": true,
+    "acquaintance": true,
+    "created_at": "2026-10-06T08:13:40.321488",
+    "is_available": true,
+    "participants": [
+      {
+        "id": 48,
+        "fio": "Радин Егор Даниилович",
+        "course": 4,
+        "role": "капитан",
+        "registration_id": 12,
+        "created_at": "2026-10-06T08:13:40.321488",
+        "is_available": true
+      },
+      {
+        "id": 49,
+        "fio": "Давудова Дарья Игоревна",
+        "course": 4,
+        "role": "участник",
+        "registration_id": 12,
+        "created_at": "2026-10-06T08:13:40.321488",
+        "is_available": true
+      },
+      {
+        "id": 50,
+        "fio": "Шубина Алиса Тимофеевна",
+        "course": 4,
+        "role": "участник",
+        "registration_id": 12,
+        "created_at": "2026-10-06T08:13:40.321488",
+        "is_available": true
+      },
+      {
+        "id": 51,
+        "fio": "Редькина Софья Александровна",
+        "course": 4,
+        "role": "участник",
+        "registration_id": 12,
+        "created_at": "2026-10-06T08:13:40.321488",
+        "is_available": true
+      }
+    ]
+  },
+  {
     "id": 11,
     "name": "Бубышки",
     "institution": "УрТИСИ СибГУТИ",
@@ -20,17 +587,17 @@
     "is_available": true,
     "participants": [
       {
-        "id": 47,
-        "fio": "Сидоров Артем Олегович",
+        "id": 43,
+        "fio": "Крикунов Олег Дмитриевич",
         "course": 4,
-        "role": "участник",
+        "role": "капитан",
         "registration_id": 11,
         "created_at": "2026-10-06T07:38:53.589266",
         "is_available": true
       },
       {
-        "id": 46,
-        "fio": "Симаков Григорий Олегович",
+        "id": 44,
+        "fio": "Кочуров Андрей Андреевич",
         "course": 4,
         "role": "участник",
         "registration_id": 11,
@@ -47,8 +614,8 @@
         "is_available": true
       },
       {
-        "id": 44,
-        "fio": "Кочуров Андрей Андреевич",
+        "id": 46,
+        "fio": "Симаков Григорий Олегович",
         "course": 4,
         "role": "участник",
         "registration_id": 11,
@@ -56,10 +623,10 @@
         "is_available": true
       },
       {
-        "id": 43,
-        "fio": "Крикунов Олег Дмитриевич",
+        "id": 47,
+        "fio": "Сидоров Артем Олегович",
         "course": 4,
-        "role": "капитан",
+        "role": "участник",
         "registration_id": 11,
         "created_at": "2026-10-06T07:38:53.589266",
         "is_available": true
@@ -87,17 +654,17 @@
     "is_available": true,
     "participants": [
       {
-        "id": 42,
-        "fio": "Пащенко Виктория Сергеевна",
-        "course": 3,
-        "role": "участник",
+        "id": 38,
+        "fio": "Прошутинская Яна Сергеевна",
+        "course": 4,
+        "role": "капитан",
         "registration_id": 10,
         "created_at": "2026-10-06T07:07:06.520160",
         "is_available": true
       },
       {
-        "id": 41,
-        "fio": "Вепрев Артем Владимирович",
+        "id": 39,
+        "fio": "Рощина Алина Сергеевна",
         "course": 4,
         "role": "участник",
         "registration_id": 10,
@@ -114,8 +681,8 @@
         "is_available": true
       },
       {
-        "id": 39,
-        "fio": "Рощина Алина Сергеевна",
+        "id": 41,
+        "fio": "Вепрев Артем Владимирович",
         "course": 4,
         "role": "участник",
         "registration_id": 10,
@@ -123,10 +690,10 @@
         "is_available": true
       },
       {
-        "id": 38,
-        "fio": "Прошутинская Яна Сергеевна",
-        "course": 4,
-        "role": "капитан",
+        "id": 42,
+        "fio": "Пащенко Виктория Сергеевна",
+        "course": 3,
+        "role": "участник",
         "registration_id": 10,
         "created_at": "2026-10-06T07:07:06.520160",
         "is_available": true
@@ -154,19 +721,19 @@
     "is_available": true,
     "participants": [
       {
-        "id": 37,
-        "fio": "Швец никита вадимович",
+        "id": 36,
+        "fio": "Нецветаев никита викторович",
         "course": 4,
-        "role": "участник",
+        "role": "капитан",
         "registration_id": 9,
         "created_at": "2026-10-06T07:03:09.908201",
         "is_available": true
       },
       {
-        "id": 36,
-        "fio": "Нецветаев никита викторович",
+        "id": 37,
+        "fio": "Швец никита вадимович",
         "course": 4,
-        "role": "капитан",
+        "role": "участник",
         "registration_id": 9,
         "created_at": "2026-10-06T07:03:09.908201",
         "is_available": true
@@ -194,10 +761,10 @@
     "is_available": true,
     "participants": [
       {
-        "id": 35,
-        "fio": "Ведерников Егор Евгеньевич",
+        "id": 33,
+        "fio": "Федосимов Никита Александрович",
         "course": 3,
-        "role": "участник",
+        "role": "капитан",
         "registration_id": 8,
         "created_at": "2026-10-06T06:45:40.567408",
         "is_available": true
@@ -212,10 +779,10 @@
         "is_available": true
       },
       {
-        "id": 33,
-        "fio": "Федосимов Никита Александрович",
+        "id": 35,
+        "fio": "Ведерников Егор Евгеньевич",
         "course": 3,
-        "role": "капитан",
+        "role": "участник",
         "registration_id": 8,
         "created_at": "2026-10-06T06:45:40.567408",
         "is_available": true
@@ -243,19 +810,19 @@
     "is_available": true,
     "participants": [
       {
-        "id": 32,
-        "fio": "Петров Артур Александрович",
+        "id": 31,
+        "fio": "Петров Артур Алексеевич",
         "course": 1,
-        "role": "участник",
+        "role": "капитан",
         "registration_id": 7,
         "created_at": "2026-10-05T17:09:57.358120",
         "is_available": true
       },
       {
-        "id": 31,
-        "fio": "Петров Артур Алексеевич",
+        "id": 32,
+        "fio": "Петров Артур Александрович",
         "course": 1,
-        "role": "капитан",
+        "role": "участник",
         "registration_id": 7,
         "created_at": "2026-10-05T17:09:57.358120",
         "is_available": true
@@ -283,17 +850,17 @@
     "is_available": true,
     "participants": [
       {
-        "id": 30,
-        "fio": "Давыдов Денис Юрьевич",
+        "id": 26,
+        "fio": "Калиновский Андрей Александрович",
         "course": 3,
-        "role": "участник",
+        "role": "капитан",
         "registration_id": 6,
         "created_at": "2026-10-05T15:42:45.209753",
         "is_available": true
       },
       {
-        "id": 29,
-        "fio": "Комкин Дмитрий Сергеевич",
+        "id": 27,
+        "fio": "Антоненков Глеб Александрович",
         "course": 3,
         "role": "участник",
         "registration_id": 6,
@@ -310,8 +877,8 @@
         "is_available": true
       },
       {
-        "id": 27,
-        "fio": "Антоненков Глеб Александрович",
+        "id": 29,
+        "fio": "Комкин Дмитрий Сергеевич",
         "course": 3,
         "role": "участник",
         "registration_id": 6,
@@ -319,10 +886,10 @@
         "is_available": true
       },
       {
-        "id": 26,
-        "fio": "Калиновский Андрей Александрович",
+        "id": 30,
+        "fio": "Давыдов Денис Юрьевич",
         "course": 3,
-        "role": "капитан",
+        "role": "участник",
         "registration_id": 6,
         "created_at": "2026-10-05T15:42:45.209753",
         "is_available": true
@@ -350,17 +917,17 @@
     "is_available": true,
     "participants": [
       {
-        "id": 25,
-        "fio": "Чуприков Денис Михайлович",
+        "id": 21,
+        "fio": "Винокурова Виктория Александровна",
         "course": 2,
-        "role": "участник",
+        "role": "капитан",
         "registration_id": 5,
         "created_at": "2026-10-05T09:43:17.262028",
         "is_available": true
       },
       {
-        "id": 24,
-        "fio": "Шайхидинова Ольга Анатольевна",
+        "id": 22,
+        "fio": "Хузина Елена Шакуровна",
         "course": 2,
         "role": "участник",
         "registration_id": 5,
@@ -377,8 +944,8 @@
         "is_available": true
       },
       {
-        "id": 22,
-        "fio": "Хузина Елена Шакуровна",
+        "id": 24,
+        "fio": "Шайхидинова Ольга Анатольевна",
         "course": 2,
         "role": "участник",
         "registration_id": 5,
@@ -386,10 +953,10 @@
         "is_available": true
       },
       {
-        "id": 21,
-        "fio": "Винокурова Виктория Александровна",
+        "id": 25,
+        "fio": "Чуприков Денис Михайлович",
         "course": 2,
-        "role": "капитан",
+        "role": "участник",
         "registration_id": 5,
         "created_at": "2026-10-05T09:43:17.262028",
         "is_available": true
@@ -417,8 +984,17 @@
     "is_available": true,
     "participants": [
       {
-        "id": 20,
-        "fio": "Кирьянов Артём Сергеевич",
+        "id": 17,
+        "fio": "Кондратьев Максим Никитич",
+        "course": 1,
+        "role": "капитан",
+        "registration_id": 4,
+        "created_at": "2026-10-05T09:15:31.751604",
+        "is_available": true
+      },
+      {
+        "id": 18,
+        "fio": "Тимергазеев Ян Александрович",
         "course": 1,
         "role": "участник",
         "registration_id": 4,
@@ -435,19 +1011,10 @@
         "is_available": true
       },
       {
-        "id": 18,
-        "fio": "Тимергазеев Ян Александрович",
+        "id": 20,
+        "fio": "Кирьянов Артём Сергеевич",
         "course": 1,
         "role": "участник",
-        "registration_id": 4,
-        "created_at": "2026-10-05T09:15:31.751604",
-        "is_available": true
-      },
-      {
-        "id": 17,
-        "fio": "Кондратьев Максим Никитич",
-        "course": 1,
-        "role": "капитан",
         "registration_id": 4,
         "created_at": "2026-10-05T09:15:31.751604",
         "is_available": true
@@ -475,17 +1042,17 @@
     "is_available": true,
     "participants": [
       {
-        "id": 16,
-        "fio": "Чепкасов Федор Андреевич",
+        "id": 12,
+        "fio": "Лыжин Роман Иванович",
         "course": 2,
-        "role": "участник",
+        "role": "капитан",
         "registration_id": 3,
         "created_at": "2026-10-05T08:09:12.801011",
         "is_available": true
       },
       {
-        "id": 15,
-        "fio": "Зайнетдинов Рамзил Рифович",
+        "id": 13,
+        "fio": "Иванов Родион Алексеевич",
         "course": 2,
         "role": "участник",
         "registration_id": 3,
@@ -502,8 +1069,8 @@
         "is_available": true
       },
       {
-        "id": 13,
-        "fio": "Иванов Родион Алексеевич",
+        "id": 15,
+        "fio": "Зайнетдинов Рамзил Рифович",
         "course": 2,
         "role": "участник",
         "registration_id": 3,
@@ -511,10 +1078,10 @@
         "is_available": true
       },
       {
-        "id": 12,
-        "fio": "Лыжин Роман Иванович",
+        "id": 16,
+        "fio": "Чепкасов Федор Андреевич",
         "course": 2,
-        "role": "капитан",
+        "role": "участник",
         "registration_id": 3,
         "created_at": "2026-10-05T08:09:12.801011",
         "is_available": true
