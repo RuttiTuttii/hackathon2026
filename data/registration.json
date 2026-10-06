@@ -1,5 +1,72 @@
 [
   {
+    "id": 11,
+    "name": "Бубышки",
+    "institution": "УрТИСИ СибГУТИ",
+    "amount_participants": 5,
+    "participation_form": "Очная",
+    "level_education": "бакалавриат/специалитет",
+    "selected_case": 5,
+    "spare_case": 6,
+    "captain_phone": "+7 (992) 016-88-65",
+    "captain_email": "krikunov.oleg04@gmail.com",
+    "curator_data": {
+      "fio": "Плеханов Савелий Михайлович",
+      "phone": "+7 (908) 639-17-71"
+    },
+    "agreement": true,
+    "acquaintance": true,
+    "created_at": "2026-10-06T07:38:53.589266",
+    "is_available": true,
+    "participants": [
+      {
+        "id": 47,
+        "fio": "Сидоров Артем Олегович",
+        "course": 4,
+        "role": "участник",
+        "registration_id": 11,
+        "created_at": "2026-10-06T07:38:53.589266",
+        "is_available": true
+      },
+      {
+        "id": 46,
+        "fio": "Симаков Григорий Олегович",
+        "course": 4,
+        "role": "участник",
+        "registration_id": 11,
+        "created_at": "2026-10-06T07:38:53.589266",
+        "is_available": true
+      },
+      {
+        "id": 45,
+        "fio": "Деулин Артем Леонидович",
+        "course": 4,
+        "role": "участник",
+        "registration_id": 11,
+        "created_at": "2026-10-06T07:38:53.589266",
+        "is_available": true
+      },
+      {
+        "id": 44,
+        "fio": "Кочуров Андрей Андреевич",
+        "course": 4,
+        "role": "участник",
+        "registration_id": 11,
+        "created_at": "2026-10-06T07:38:53.589266",
+        "is_available": true
+      },
+      {
+        "id": 43,
+        "fio": "Крикунов Олег Дмитриевич",
+        "course": 4,
+        "role": "капитан",
+        "registration_id": 11,
+        "created_at": "2026-10-06T07:38:53.589266",
+        "is_available": true
+      }
+    ]
+  },
+  {
     "id": 10,
     "name": "Код красный",
     "institution": "АКТ(ф)СПБГУТ",
