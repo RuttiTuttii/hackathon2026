@@ -1,5 +1,121 @@
 [
   {
+    "id": 25,
+    "name": "Пушистые воздуханчики",
+    "institution": "УрТИСИ СибГУТИ",
+    "amount_participants": 3,
+    "participation_form": "Очная",
+    "level_education": "бакалавриат/специалитет",
+    "selected_case": 3,
+    "spare_case": 2,
+    "captain_phone": "+7 (922) 028-96-55",
+    "captain_email": "nakakabpagab@gmail.com",
+    "curator_data": {
+      "fio": "Казанцев Михаил Юрьевич",
+      "phone": "+7 (982) 630-87-17"
+    },
+    "agreement": true,
+    "acquaintance": true,
+    "created_at": "2026-10-07T10:40:36.023739",
+    "is_available": true,
+    "participants": [
+      {
+        "id": 106,
+        "fio": "Коробов Валерий Антонович",
+        "course": 2,
+        "role": "капитан",
+        "registration_id": 25,
+        "created_at": "2026-10-07T10:40:36.023739",
+        "is_available": true
+      },
+      {
+        "id": 107,
+        "fio": "Кунцендорф Алексей Вадимович",
+        "course": 2,
+        "role": "участник",
+        "registration_id": 25,
+        "created_at": "2026-10-07T10:40:36.023739",
+        "is_available": true
+      },
+      {
+        "id": 108,
+        "fio": "Осипова Александра Сергеевна",
+        "course": 2,
+        "role": "участник",
+        "registration_id": 25,
+        "created_at": "2026-10-07T10:40:36.023739",
+        "is_available": true
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Ambassadori",
+    "institution": "УрТИСИ СибГУТИ",
+    "amount_participants": 5,
+    "participation_form": "Очная",
+    "level_education": "спо 9класс",
+    "selected_case": 4,
+    "spare_case": 5,
+    "captain_phone": "+7 (965) 541-64-43",
+    "captain_email": "Hazmat56@yandex.ru",
+    "curator_data": {
+      "fio": "Тарасов Евгений Сергеевич",
+      "phone": "+7 (952) 730-56-61"
+    },
+    "agreement": true,
+    "acquaintance": true,
+    "created_at": "2026-10-07T06:48:14.061438",
+    "is_available": true,
+    "participants": [
+      {
+        "id": 101,
+        "fio": "Шевченок Максим Игоревич",
+        "course": 3,
+        "role": "участник",
+        "registration_id": 24,
+        "created_at": "2026-10-07T06:48:14.061438",
+        "is_available": true
+      },
+      {
+        "id": 102,
+        "fio": "Третьяков Фёдор Камранович",
+        "course": 3,
+        "role": "участник",
+        "registration_id": 24,
+        "created_at": "2026-10-07T06:48:14.061438",
+        "is_available": true
+      },
+      {
+        "id": 103,
+        "fio": "Дунин Иван Иванович",
+        "course": 3,
+        "role": "участник",
+        "registration_id": 24,
+        "created_at": "2026-10-07T06:48:14.061438",
+        "is_available": true
+      },
+      {
+        "id": 104,
+        "fio": "Иванцов Иван Станиславович",
+        "course": 3,
+        "role": "капитан",
+        "registration_id": 24,
+        "created_at": "2026-10-07T06:48:14.061438",
+        "is_available": true
+      },
+      {
+        "id": 105,
+        "fio": "Швалёв Константин Николаевич",
+        "course": 3,
+        "role": "участник",
+        "registration_id": 24,
+        "created_at": "2026-10-07T06:48:14.061438",
+        "is_available": true
+      }
+    ]
+  },
+  {
     "id": 23,
     "name": "404: Sleep Not Found",
     "institution": "УрТИСИ СибГУТИ",
