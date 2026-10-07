@@ -1,5 +1,45 @@
 [
   {
+    "id": 23,
+    "name": "404: Sleep Not Found",
+    "institution": "УрТИСИ СибГУТИ",
+    "amount_participants": 2,
+    "participation_form": "Очная",
+    "level_education": "спо 11класс",
+    "selected_case": 4,
+    "spare_case": 6,
+    "captain_phone": "+7 (953) 600-82-63",
+    "captain_email": "eozornin07@gmail.com",
+    "curator_data": {
+      "fio": "Тупицын Константин Михайлович",
+      "phone": "+7 (902) 500-38-85"
+    },
+    "agreement": true,
+    "acquaintance": true,
+    "created_at": "2026-10-07T05:12:09.240847",
+    "is_available": true,
+    "participants": [
+      {
+        "id": 99,
+        "fio": "Озорнин Евгений Максимович",
+        "course": 3,
+        "role": "капитан",
+        "registration_id": 23,
+        "created_at": "2026-10-07T05:12:09.240847",
+        "is_available": true
+      },
+      {
+        "id": 100,
+        "fio": "Вяткин Семён Михайлович",
+        "course": 3,
+        "role": "участник",
+        "registration_id": 23,
+        "created_at": "2026-10-07T05:12:09.240847",
+        "is_available": true
+      }
+    ]
+  },
+  {
     "id": 22,
     "name": "Кошмарики Бонпари",
     "institution": "ПГУТИ",
@@ -251,7 +291,7 @@
   },
   {
     "id": 17,
-    "name": "МОРГЕНШТЕРН",
+    "name": "связь-грязь",
     "institution": "УрТИСИ СибГУТИ",
     "amount_participants": 5,
     "participation_form": "Очная",
@@ -270,48 +310,48 @@
     "is_available": true,
     "participants": [
       {
-        "id": 71,
+        "id": 94,
         "fio": "Каримов Артур Ильдарович",
         "course": 3,
         "role": "капитан",
         "registration_id": 17,
-        "created_at": "2026-10-06T09:46:49.794290",
+        "created_at": "2026-10-07T03:54:22.874123",
         "is_available": true
       },
       {
-        "id": 72,
+        "id": 95,
         "fio": "Глушков Кирилл Владимирович",
         "course": 3,
         "role": "участник",
         "registration_id": 17,
-        "created_at": "2026-10-06T09:46:49.794290",
+        "created_at": "2026-10-07T03:54:22.874123",
         "is_available": true
       },
       {
-        "id": 73,
+        "id": 96,
         "fio": "Евенко Дмитрий Викторович",
         "course": 3,
         "role": "участник",
         "registration_id": 17,
-        "created_at": "2026-10-06T09:46:49.794290",
+        "created_at": "2026-10-07T03:54:22.874123",
         "is_available": true
       },
       {
-        "id": 74,
+        "id": 97,
         "fio": "Зоятинов Адэль Камилевич",
         "course": 3,
         "role": "участник",
         "registration_id": 17,
-        "created_at": "2026-10-06T09:46:49.794290",
+        "created_at": "2026-10-07T03:54:22.874123",
         "is_available": true
       },
       {
-        "id": 75,
+        "id": 98,
         "fio": "Кочесова Юлия Николаевна",
         "course": 3,
         "role": "участник",
         "registration_id": 17,
-        "created_at": "2026-10-06T09:46:49.794290",
+        "created_at": "2026-10-07T03:54:22.874123",
         "is_available": true
       }
     ]
