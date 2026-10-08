@@ -1,5 +1,295 @@
 [
   {
+    "id": 30,
+    "name": "АМ-АМ",
+    "institution": "Уртиси СибГУТИ ",
+    "amount_participants": 5,
+    "participation_form": "Очная",
+    "level_education": "спо 9класс",
+    "selected_case": 4,
+    "spare_case": 5,
+    "captain_phone": "+7 (919) 377-37-20",
+    "captain_email": "arinaekb07072007@gmail.com",
+    "curator_data": {
+      "fio": "Юрченко Евгения Владимировна ",
+      "phone": "+7 (904) 389-08-43"
+    },
+    "agreement": true,
+    "acquaintance": true,
+    "created_at": "2026-10-08T11:00:15.526620",
+    "is_available": true,
+    "participants": [
+      {
+        "id": 124,
+        "fio": "Кречетова Арина Андреевна",
+        "course": 4,
+        "role": "капитан",
+        "registration_id": 30,
+        "created_at": "2026-10-08T11:00:15.526620",
+        "is_available": true
+      },
+      {
+        "id": 125,
+        "fio": "Блиновских Виктория Павловна",
+        "course": 4,
+        "role": "участник",
+        "registration_id": 30,
+        "created_at": "2026-10-08T11:00:15.526620",
+        "is_available": true
+      },
+      {
+        "id": 126,
+        "fio": "Кураносова Виолетта Сергеевна",
+        "course": 4,
+        "role": "участник",
+        "registration_id": 30,
+        "created_at": "2026-10-08T11:00:15.526620",
+        "is_available": true
+      },
+      {
+        "id": 127,
+        "fio": "Химичев Семён Эдуардович",
+        "course": 4,
+        "role": "участник",
+        "registration_id": 30,
+        "created_at": "2026-10-08T11:00:15.526620",
+        "is_available": true
+      },
+      {
+        "id": 128,
+        "fio": "Минибаева Амелия Винеровна",
+        "course": 4,
+        "role": "участник",
+        "registration_id": 30,
+        "created_at": "2026-10-08T11:00:15.526620",
+        "is_available": true
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Стефаняши",
+    "institution": "ПГУТИ",
+    "amount_participants": 3,
+    "participation_form": "Дистанционная",
+    "level_education": "бакалавриат/специалитет",
+    "selected_case": 2,
+    "spare_case": 3,
+    "captain_phone": "+7 (996) 953-33-25",
+    "captain_email": "ruslick11@mail.ru",
+    "curator_data": {
+      "fio": "Стефанова Ирина Алексеевна",
+      "phone": "+7 (927) 765-62-36"
+    },
+    "agreement": true,
+    "acquaintance": true,
+    "created_at": "2026-10-08T10:03:10.595378",
+    "is_available": true,
+    "participants": [
+      {
+        "id": 121,
+        "fio": "Фасхутдинов Руслан Рафаэлевич",
+        "course": 2,
+        "role": "капитан",
+        "registration_id": 29,
+        "created_at": "2026-10-08T10:03:10.595378",
+        "is_available": true
+      },
+      {
+        "id": 122,
+        "fio": "Каранда Маргорита Сергеевна",
+        "course": 2,
+        "role": "участник",
+        "registration_id": 29,
+        "created_at": "2026-10-08T10:03:10.595378",
+        "is_available": true
+      },
+      {
+        "id": 123,
+        "fio": "Хабарова Дарья Дмитриевна",
+        "course": 2,
+        "role": "участник",
+        "registration_id": 29,
+        "created_at": "2026-10-08T10:03:10.595378",
+        "is_available": true
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Чаппа2.0",
+    "institution": "акт(ф) СПБГУТ",
+    "amount_participants": 5,
+    "participation_form": "Очная",
+    "level_education": "спо 11класс",
+    "selected_case": 4,
+    "spare_case": 5,
+    "captain_phone": "+7 (965) 731-90-59",
+    "captain_email": "polina.Shumiliva.06@mail.ru",
+    "curator_data": {
+      "fio": "маломан Юлия Сергеевна",
+      "phone": "+7 (902) 705-61-71"
+    },
+    "agreement": true,
+    "acquaintance": true,
+    "created_at": "2026-10-08T07:39:35.069697",
+    "is_available": true,
+    "participants": [
+      {
+        "id": 116,
+        "fio": "Максимов Кирилл Вадимович",
+        "course": 5,
+        "role": "участник",
+        "registration_id": 28,
+        "created_at": "2026-10-08T07:39:35.069697",
+        "is_available": true
+      },
+      {
+        "id": 117,
+        "fio": "Нецветаев Никита Викторович",
+        "course": 5,
+        "role": "участник",
+        "registration_id": 28,
+        "created_at": "2026-10-08T07:39:35.069697",
+        "is_available": true
+      },
+      {
+        "id": 118,
+        "fio": "Шумилова Полина Алексеевна",
+        "course": 5,
+        "role": "капитан",
+        "registration_id": 28,
+        "created_at": "2026-10-08T07:39:35.069697",
+        "is_available": true
+      },
+      {
+        "id": 119,
+        "fio": "Швец Никита Вадимович",
+        "course": 5,
+        "role": "участник",
+        "registration_id": 28,
+        "created_at": "2026-10-08T07:39:35.069697",
+        "is_available": true
+      },
+      {
+        "id": 120,
+        "fio": "Ольга Камкина Андреевна",
+        "course": 5,
+        "role": "участник",
+        "registration_id": 28,
+        "created_at": "2026-10-08T07:39:35.069697",
+        "is_available": true
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "name": "КиберМыши",
+    "institution": "Поволжский государственный университет телекоммуникаций и информатики",
+    "amount_participants": 3,
+    "participation_form": "Дистанционная",
+    "level_education": "бакалавриат/специалитет",
+    "selected_case": 5,
+    "spare_case": 4,
+    "captain_phone": "+7 (937) 642-42-22",
+    "captain_email": "oleg.zapyantsev@mail.ru",
+    "curator_data": {
+      "fio": "Стефанова Ирина Алексеевна",
+      "phone": "+7 (927) 765-62-36"
+    },
+    "agreement": true,
+    "acquaintance": true,
+    "created_at": "2026-10-08T06:52:32.058945",
+    "is_available": true,
+    "participants": [
+      {
+        "id": 113,
+        "fio": "Запьянцев Олег Васильевич",
+        "course": 3,
+        "role": "капитан",
+        "registration_id": 27,
+        "created_at": "2026-10-08T06:52:32.058945",
+        "is_available": true
+      },
+      {
+        "id": 114,
+        "fio": "Вепрева Анастасия Денисовна",
+        "course": 3,
+        "role": "участник",
+        "registration_id": 27,
+        "created_at": "2026-10-08T06:52:32.058945",
+        "is_available": true
+      },
+      {
+        "id": 115,
+        "fio": "Герасимова Анна Андреевна",
+        "course": 3,
+        "role": "участник",
+        "registration_id": 27,
+        "created_at": "2026-10-08T06:52:32.058945",
+        "is_available": true
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "name": "chapa",
+    "institution": "АКТ(ф) СПбГУТ",
+    "amount_participants": 4,
+    "participation_form": "Дистанционная",
+    "level_education": "спо 11класс",
+    "selected_case": 6,
+    "spare_case": 4,
+    "captain_phone": "+7 (965) 731-90-59",
+    "captain_email": "polina.shumilova.06@mail.ru",
+    "curator_data": {
+      "fio": "Маломан Юлия Сергеевна",
+      "phone": "+7 (902) 705-61-71"
+    },
+    "agreement": true,
+    "acquaintance": true,
+    "created_at": "2026-10-08T06:46:39.920681",
+    "is_available": true,
+    "participants": [
+      {
+        "id": 109,
+        "fio": "Шумилова Полина Алексеевна",
+        "course": 3,
+        "role": "капитан",
+        "registration_id": 26,
+        "created_at": "2026-10-08T06:46:39.920681",
+        "is_available": true
+      },
+      {
+        "id": 110,
+        "fio": "Камкина Ольга Андреевна",
+        "course": 3,
+        "role": "участник",
+        "registration_id": 26,
+        "created_at": "2026-10-08T06:46:39.920681",
+        "is_available": true
+      },
+      {
+        "id": 111,
+        "fio": "Нецветаев Никита Викторович",
+        "course": 3,
+        "role": "участник",
+        "registration_id": 26,
+        "created_at": "2026-10-08T06:46:39.920681",
+        "is_available": true
+      },
+      {
+        "id": 112,
+        "fio": "Швец Никита Вадимович",
+        "course": 3,
+        "role": "участник",
+        "registration_id": 26,
+        "created_at": "2026-10-08T06:46:39.920681",
+        "is_available": true
+      }
+    ]
+  },
+  {
     "id": 25,
     "name": "Пушистые воздуханчики",
     "institution": "УрТИСИ СибГУТИ",
