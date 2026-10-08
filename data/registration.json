@@ -1,5 +1,179 @@
 [
   {
+    "id": 33,
+    "name": "Каскад",
+    "institution": "УрТИСИ СибГУТИ",
+    "amount_participants": 5,
+    "participation_form": "Дистанционная",
+    "level_education": "бакалавриат/специалитет",
+    "selected_case": 4,
+    "spare_case": 6,
+    "captain_phone": "+7 (922) 223-05-89",
+    "captain_email": "zazarpn1@gmail.com",
+    "curator_data": {
+      "fio": "Белых Павел Евгеньевич",
+      "phone": "+7 (905) 853-19-20"
+    },
+    "agreement": true,
+    "acquaintance": true,
+    "created_at": "2026-10-08T18:06:11.312977",
+    "is_available": true,
+    "participants": [
+      {
+        "id": 136,
+        "fio": "Старицын Степан Вадимович",
+        "course": 3,
+        "role": "капитан",
+        "registration_id": 33,
+        "created_at": "2026-10-08T18:06:11.312977",
+        "is_available": true
+      },
+      {
+        "id": 137,
+        "fio": "Жуков Данил Кириллович",
+        "course": 3,
+        "role": "участник",
+        "registration_id": 33,
+        "created_at": "2026-10-08T18:06:11.312977",
+        "is_available": true
+      },
+      {
+        "id": 138,
+        "fio": "Труханов Артур Артёмович",
+        "course": 3,
+        "role": "участник",
+        "registration_id": 33,
+        "created_at": "2026-10-08T18:06:11.312977",
+        "is_available": true
+      },
+      {
+        "id": 139,
+        "fio": "Глинских Егор Константинович",
+        "course": 3,
+        "role": "участник",
+        "registration_id": 33,
+        "created_at": "2026-10-08T18:06:11.312977",
+        "is_available": true
+      },
+      {
+        "id": 140,
+        "fio": "Шамшиев Роман Андреевич",
+        "course": 3,
+        "role": "участник",
+        "registration_id": 33,
+        "created_at": "2026-10-08T18:06:11.312977",
+        "is_available": true
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Fatal error: Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'field list'",
+    "institution": "УрТИСИ СибГУТИ",
+    "amount_participants": 2,
+    "participation_form": "Очная",
+    "level_education": "бакалавриат/специалитет",
+    "selected_case": 2,
+    "spare_case": 3,
+    "captain_phone": "+7 (900) 390-13-98",
+    "captain_email": "aekemerov@yandex.ru",
+    "curator_data": {
+      "fio": "Казанцев Михаил Юрьевич",
+      "phone": "+7 (982) 630-87-17"
+    },
+    "agreement": true,
+    "acquaintance": true,
+    "created_at": "2026-10-08T16:11:49.241089",
+    "is_available": true,
+    "participants": [
+      {
+        "id": 134,
+        "fio": "Малыгин Александр Евгеньевич",
+        "course": 2,
+        "role": "капитан",
+        "registration_id": 32,
+        "created_at": "2026-10-08T16:11:49.241089",
+        "is_available": true
+      },
+      {
+        "id": 135,
+        "fio": "Цукров Михаил Евгеньевич",
+        "course": 2,
+        "role": "участник",
+        "registration_id": 32,
+        "created_at": "2026-10-08T16:11:49.241089",
+        "is_available": true
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "name": "На связи",
+    "institution": "УрТИСИ СибГУТИ",
+    "amount_participants": 5,
+    "participation_form": "Очная",
+    "level_education": "бакалавриат/специалитет",
+    "selected_case": 6,
+    "spare_case": 4,
+    "captain_phone": "+7 (901) 949-14-42",
+    "captain_email": "digr76007@gmail.com",
+    "curator_data": {
+      "fio": "Плеханов Савелий Михайлович",
+      "phone": "+7 (908) 639-17-71"
+    },
+    "agreement": true,
+    "acquaintance": true,
+    "created_at": "2026-10-08T14:42:25.760644",
+    "is_available": true,
+    "participants": [
+      {
+        "id": 129,
+        "fio": "Драчёва Анна Николаевна",
+        "course": 3,
+        "role": "капитан",
+        "registration_id": 31,
+        "created_at": "2026-10-08T14:42:25.760644",
+        "is_available": true
+      },
+      {
+        "id": 130,
+        "fio": "Тивикова Екатерина Ивановна",
+        "course": 3,
+        "role": "участник",
+        "registration_id": 31,
+        "created_at": "2026-10-08T14:42:25.760644",
+        "is_available": true
+      },
+      {
+        "id": 131,
+        "fio": "Золотов Юрий Андреевич",
+        "course": 3,
+        "role": "участник",
+        "registration_id": 31,
+        "created_at": "2026-10-08T14:42:25.760644",
+        "is_available": true
+      },
+      {
+        "id": 132,
+        "fio": "Романишин Сергей Евгеньевич",
+        "course": 3,
+        "role": "участник",
+        "registration_id": 31,
+        "created_at": "2026-10-08T14:42:25.760644",
+        "is_available": true
+      },
+      {
+        "id": 133,
+        "fio": "Кропотин Егор Павлович",
+        "course": 3,
+        "role": "участник",
+        "registration_id": 31,
+        "created_at": "2026-10-08T14:42:25.760644",
+        "is_available": true
+      }
+    ]
+  },
+  {
     "id": 30,
     "name": "АМ-АМ",
     "institution": "Уртиси СибГУТИ ",
