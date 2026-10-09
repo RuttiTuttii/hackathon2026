@@ -1,5 +1,188 @@
 [
   {
+    "id": 36,
+    "name": "Поморы",
+    "institution": "АКТ(ф)СПбГУТ",
+    "amount_participants": 5,
+    "participation_form": "Дистанционная",
+    "level_education": "спо 11класс",
+    "selected_case": 3,
+    "spare_case": 2,
+    "captain_phone": "+7 (952) 303-45-58",
+    "captain_email": "sofya.nekrasova.2018@bk.ru",
+    "curator_data": {
+      "fio": "Маломан Юлия Сергеевна",
+      "phone": "+7 (911) 582-02-01"
+    },
+    "agreement": true,
+    "acquaintance": true,
+    "created_at": "2026-10-09T12:37:54.060289",
+    "is_available": true,
+    "participants": [
+      {
+        "id": 149,
+        "fio": "Некрасова Софья Олеговна",
+        "course": 2,
+        "role": "капитан",
+        "registration_id": 36,
+        "created_at": "2026-10-09T12:37:54.060289",
+        "is_available": true
+      },
+      {
+        "id": 150,
+        "fio": "Амелина Ксения Сергеевна",
+        "course": 2,
+        "role": "участник",
+        "registration_id": 36,
+        "created_at": "2026-10-09T12:37:54.060289",
+        "is_available": true
+      },
+      {
+        "id": 151,
+        "fio": "Дергаева Валерия Сергеевна",
+        "course": 2,
+        "role": "участник",
+        "registration_id": 36,
+        "created_at": "2026-10-09T12:37:54.060289",
+        "is_available": true
+      },
+      {
+        "id": 152,
+        "fio": "Фуфаев Леонид Сергеевич",
+        "course": 2,
+        "role": "участник",
+        "registration_id": 36,
+        "created_at": "2026-10-09T12:37:54.060289",
+        "is_available": true
+      },
+      {
+        "id": 153,
+        "fio": "Микуров Ярослав Александрович",
+        "course": 2,
+        "role": "участник",
+        "registration_id": 36,
+        "created_at": "2026-10-09T12:37:54.060289",
+        "is_available": true
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Чайники 2.0",
+    "institution": "Смоленский колледж телекоммуникаций (филиал) федерального государственного бюджетного образовательного учреждения высшего образования «Санкт‑Петербургский государственный университет телекоммуникаций им. проф. М. А. Бонч‑Бруевича».",
+    "amount_participants": 3,
+    "participation_form": "Дистанционная",
+    "level_education": "спо 9класс",
+    "selected_case": 4,
+    "spare_case": 6,
+    "captain_phone": "+7 (967) 988-44-29",
+    "captain_email": "arsendubaenkov@gmail.com",
+    "curator_data": {
+      "fio": "Шаманова Оксана Олеговна",
+      "phone": "+7 (908) 282-78-26"
+    },
+    "agreement": true,
+    "acquaintance": true,
+    "created_at": "2026-10-09T09:30:19.546724",
+    "is_available": true,
+    "participants": [
+      {
+        "id": 146,
+        "fio": "Дубаенков Арсений Сергеевич",
+        "course": 3,
+        "role": "капитан",
+        "registration_id": 35,
+        "created_at": "2026-10-09T09:30:19.546724",
+        "is_available": true
+      },
+      {
+        "id": 147,
+        "fio": "Васильев Илья Андреевич",
+        "course": 3,
+        "role": "участник",
+        "registration_id": 35,
+        "created_at": "2026-10-09T09:30:19.546724",
+        "is_available": true
+      },
+      {
+        "id": 148,
+        "fio": "Кураедов Владислав Викторович",
+        "course": 3,
+        "role": "участник",
+        "registration_id": 35,
+        "created_at": "2026-10-09T09:30:19.546724",
+        "is_available": true
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "name": "BNCs & Jacks",
+    "institution": "Колледж телекоммуникаций и информатики",
+    "amount_participants": 5,
+    "participation_form": "Дистанционная",
+    "level_education": "спо 11класс",
+    "selected_case": 1,
+    "spare_case": 3,
+    "captain_phone": "+7 (983) 011-15-64",
+    "captain_email": "godkinggawain@gmail.com",
+    "curator_data": {
+      "fio": "Матвеева Наталья Стефановна",
+      "phone": "+7 (913) 938-09-59"
+    },
+    "agreement": true,
+    "acquaintance": true,
+    "created_at": "2026-10-09T07:03:20.925436",
+    "is_available": true,
+    "participants": [
+      {
+        "id": 141,
+        "fio": "Косов Даниил Александрович",
+        "course": 2,
+        "role": "капитан",
+        "registration_id": 34,
+        "created_at": "2026-10-09T07:03:20.925436",
+        "is_available": true
+      },
+      {
+        "id": 142,
+        "fio": "Саленко Софья Денисовна",
+        "course": 2,
+        "role": "участник",
+        "registration_id": 34,
+        "created_at": "2026-10-09T07:03:20.925436",
+        "is_available": true
+      },
+      {
+        "id": 143,
+        "fio": "Гуревич Константин Сергеевич",
+        "course": 2,
+        "role": "участник",
+        "registration_id": 34,
+        "created_at": "2026-10-09T07:03:20.925436",
+        "is_available": true
+      },
+      {
+        "id": 144,
+        "fio": "Чудов Максим Павлович",
+        "course": 2,
+        "role": "участник",
+        "registration_id": 34,
+        "created_at": "2026-10-09T07:03:20.925436",
+        "is_available": true
+      },
+      {
+        "id": 145,
+        "fio": "Крюков Дмитрий Александрович",
+        "course": 2,
+        "role": "участник",
+        "registration_id": 34,
+        "created_at": "2026-10-09T07:03:20.925436",
+        "is_available": true
+      }
+    ]
+  },
+  {
     "id": 33,
     "name": "Каскад",
     "institution": "УрТИСИ СибГУТИ",
@@ -401,64 +584,6 @@
         "role": "участник",
         "registration_id": 27,
         "created_at": "2026-10-08T06:52:32.058945",
-        "is_available": true
-      }
-    ]
-  },
-  {
-    "id": 26,
-    "name": "chapa",
-    "institution": "АКТ(ф) СПбГУТ",
-    "amount_participants": 4,
-    "participation_form": "Дистанционная",
-    "level_education": "спо 11класс",
-    "selected_case": 6,
-    "spare_case": 4,
-    "captain_phone": "+7 (965) 731-90-59",
-    "captain_email": "polina.shumilova.06@mail.ru",
-    "curator_data": {
-      "fio": "Маломан Юлия Сергеевна",
-      "phone": "+7 (902) 705-61-71"
-    },
-    "agreement": true,
-    "acquaintance": true,
-    "created_at": "2026-10-08T06:46:39.920681",
-    "is_available": true,
-    "participants": [
-      {
-        "id": 109,
-        "fio": "Шумилова Полина Алексеевна",
-        "course": 3,
-        "role": "капитан",
-        "registration_id": 26,
-        "created_at": "2026-10-08T06:46:39.920681",
-        "is_available": true
-      },
-      {
-        "id": 110,
-        "fio": "Камкина Ольга Андреевна",
-        "course": 3,
-        "role": "участник",
-        "registration_id": 26,
-        "created_at": "2026-10-08T06:46:39.920681",
-        "is_available": true
-      },
-      {
-        "id": 111,
-        "fio": "Нецветаев Никита Викторович",
-        "course": 3,
-        "role": "участник",
-        "registration_id": 26,
-        "created_at": "2026-10-08T06:46:39.920681",
-        "is_available": true
-      },
-      {
-        "id": 112,
-        "fio": "Швец Никита Вадимович",
-        "course": 3,
-        "role": "участник",
-        "registration_id": 26,
-        "created_at": "2026-10-08T06:46:39.920681",
         "is_available": true
       }
     ]
@@ -1383,46 +1508,6 @@
         "role": "участник",
         "registration_id": 10,
         "created_at": "2026-10-06T07:07:06.520160",
-        "is_available": true
-      }
-    ]
-  },
-  {
-    "id": 9,
-    "name": "Чапа",
-    "institution": "Актфспбгут",
-    "amount_participants": 2,
-    "participation_form": "Очная",
-    "level_education": "бакалавриат/специалитет",
-    "selected_case": 6,
-    "spare_case": 5,
-    "captain_phone": "+7 (953) 261-86-35",
-    "captain_email": "nicitanetsvetaev@gmail.com",
-    "curator_data": {
-      "fio": "Маломан Юлия Сергеевна",
-      "phone": "+7 (933) 082-55-09"
-    },
-    "agreement": true,
-    "acquaintance": true,
-    "created_at": "2026-10-06T07:03:09.908201",
-    "is_available": true,
-    "participants": [
-      {
-        "id": 36,
-        "fio": "Нецветаев никита викторович",
-        "course": 4,
-        "role": "капитан",
-        "registration_id": 9,
-        "created_at": "2026-10-06T07:03:09.908201",
-        "is_available": true
-      },
-      {
-        "id": 37,
-        "fio": "Швец никита вадимович",
-        "course": 4,
-        "role": "участник",
-        "registration_id": 9,
-        "created_at": "2026-10-06T07:03:09.908201",
         "is_available": true
       }
     ]
