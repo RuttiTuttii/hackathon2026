@@ -1,5 +1,179 @@
 [
   {
+    "id": 42,
+    "name": "Нейромантики",
+    "institution": "Уртиси Сибгути",
+    "amount_participants": 5,
+    "participation_form": "Очная",
+    "level_education": "бакалавриат/специалитет",
+    "selected_case": 2,
+    "spare_case": 4,
+    "captain_phone": "+7 (982) 949-05-10",
+    "captain_email": "lkop228228@gmail.com",
+    "curator_data": {
+      "fio": "Пупышев Владимир Андреевич",
+      "phone": "+7 (982) 608-14-30"
+    },
+    "agreement": true,
+    "acquaintance": true,
+    "created_at": "2026-10-10T17:13:35.598241",
+    "is_available": true,
+    "participants": [
+      {
+        "id": 176,
+        "fio": "Копотилов Леонид Александрович",
+        "course": 2,
+        "role": "капитан",
+        "registration_id": 42,
+        "created_at": "2026-10-10T17:13:35.598241",
+        "is_available": true
+      },
+      {
+        "id": 177,
+        "fio": "Игошев Никита Сергеевич",
+        "course": 2,
+        "role": "участник",
+        "registration_id": 42,
+        "created_at": "2026-10-10T17:13:35.598241",
+        "is_available": true
+      },
+      {
+        "id": 178,
+        "fio": "Рожков Егор  Андреевич",
+        "course": 2,
+        "role": "участник",
+        "registration_id": 42,
+        "created_at": "2026-10-10T17:13:35.598241",
+        "is_available": true
+      },
+      {
+        "id": 179,
+        "fio": "Миннуллин Артур Ренатович",
+        "course": 2,
+        "role": "участник",
+        "registration_id": 42,
+        "created_at": "2026-10-10T17:13:35.598241",
+        "is_available": true
+      },
+      {
+        "id": 180,
+        "fio": "Гуськов Евгений Викторович",
+        "course": 2,
+        "role": "участник",
+        "registration_id": 42,
+        "created_at": "2026-10-10T17:13:35.598241",
+        "is_available": true
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Сибгутеры",
+    "institution": "СибГУТИ",
+    "amount_participants": 4,
+    "participation_form": "Дистанционная",
+    "level_education": "бакалавриат/специалитет",
+    "selected_case": 5,
+    "spare_case": 4,
+    "captain_phone": "+7 (908) 591-95-86",
+    "captain_email": "vlad20033010@gmail.com",
+    "curator_data": {
+      "fio": "Ерофеевна Анастасия Генадьевна ",
+      "phone": "+7 (914) 171-00-56"
+    },
+    "agreement": true,
+    "acquaintance": true,
+    "created_at": "2026-10-10T16:10:53.729499",
+    "is_available": true,
+    "participants": [
+      {
+        "id": 172,
+        "fio": "Курбатов Егор Владиславович",
+        "course": 3,
+        "role": "участник",
+        "registration_id": 41,
+        "created_at": "2026-10-10T16:10:53.729499",
+        "is_available": true
+      },
+      {
+        "id": 173,
+        "fio": "Дёжин Никита Владиславович",
+        "course": 3,
+        "role": "участник",
+        "registration_id": 41,
+        "created_at": "2026-10-10T16:10:53.729499",
+        "is_available": true
+      },
+      {
+        "id": 174,
+        "fio": "Щербина Иван Радиевич",
+        "course": 3,
+        "role": "участник",
+        "registration_id": 41,
+        "created_at": "2026-10-10T16:10:53.729499",
+        "is_available": true
+      },
+      {
+        "id": 175,
+        "fio": "Куриганов Владислав Витальевич",
+        "course": 3,
+        "role": "капитан",
+        "registration_id": 41,
+        "created_at": "2026-10-10T16:10:53.729499",
+        "is_available": true
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "name": "zilbi work",
+    "institution": "Университет ИТМО",
+    "amount_participants": 3,
+    "participation_form": "Дистанционная",
+    "level_education": "бакалавриат/специалитет",
+    "selected_case": 3,
+    "spare_case": 2,
+    "captain_phone": "+7 (930) 274-31-51",
+    "captain_email": "egubareva06@mail.ru",
+    "curator_data": {
+      "fio": "Харламов Данила Тамарович",
+      "phone": "+7 (950) 084-53-90"
+    },
+    "agreement": true,
+    "acquaintance": true,
+    "created_at": "2026-10-10T13:11:43.012036",
+    "is_available": true,
+    "participants": [
+      {
+        "id": 169,
+        "fio": "Губарева Екатерина Алексеевна",
+        "course": 2,
+        "role": "участник",
+        "registration_id": 40,
+        "created_at": "2026-10-10T13:11:43.012036",
+        "is_available": true
+      },
+      {
+        "id": 170,
+        "fio": "Куприянов Михаил Александрович",
+        "course": 2,
+        "role": "участник",
+        "registration_id": 40,
+        "created_at": "2026-10-10T13:11:43.012036",
+        "is_available": true
+      },
+      {
+        "id": 171,
+        "fio": "Батраков Артём Олегович",
+        "course": 2,
+        "role": "капитан",
+        "registration_id": 40,
+        "created_at": "2026-10-10T13:11:43.012036",
+        "is_available": true
+      }
+    ]
+  },
+  {
     "id": 39,
     "name": "Виртуальный контейнер",
     "institution": "Архангельский колледж телекоммуникаций им. Б.Л. Розинга (филиал) федерального государственного бюджетного образовательного учреждения высшего образования \"Санкт-Петербургский государственный университет телекоммуникаций им. проф. М.А. Бонч-Бруевича",
