@@ -1,5 +1,139 @@
 [
   {
+    "id": 39,
+    "name": "Виртуальный контейнер",
+    "institution": "Архангельский колледж телекоммуникаций им. Б.Л. Розинга (филиал) федерального государственного бюджетного образовательного учреждения высшего образования \"Санкт-Петербургский государственный университет телекоммуникаций им. проф. М.А. Бонч-Бруевича",
+    "amount_participants": 5,
+    "participation_form": "Дистанционная",
+    "level_education": "спо 9класс",
+    "selected_case": 4,
+    "spare_case": 6,
+    "captain_phone": "+7 (911) 876-88-91",
+    "captain_email": "zykovsl2007@gmail.com",
+    "curator_data": {
+      "fio": "Садков Анатолий Александрович",
+      "phone": "+7 (921) 720-29-30"
+    },
+    "agreement": true,
+    "acquaintance": true,
+    "created_at": "2026-10-10T12:54:30.569249",
+    "is_available": true,
+    "participants": [
+      {
+        "id": 164,
+        "fio": "Зыков Степан Леонидович",
+        "course": 4,
+        "role": "капитан",
+        "registration_id": 39,
+        "created_at": "2026-10-10T12:54:30.569249",
+        "is_available": true
+      },
+      {
+        "id": 165,
+        "fio": "Исаков Артём Владимирович",
+        "course": 4,
+        "role": "участник",
+        "registration_id": 39,
+        "created_at": "2026-10-10T12:54:30.569249",
+        "is_available": true
+      },
+      {
+        "id": 166,
+        "fio": "Бекетов Кирилл Сергеевич",
+        "course": 4,
+        "role": "участник",
+        "registration_id": 39,
+        "created_at": "2026-10-10T12:54:30.569249",
+        "is_available": true
+      },
+      {
+        "id": 167,
+        "fio": "Мязин Руслан Иванович",
+        "course": 4,
+        "role": "участник",
+        "registration_id": 39,
+        "created_at": "2026-10-10T12:54:30.569249",
+        "is_available": true
+      },
+      {
+        "id": 168,
+        "fio": "Тюпышев Матвей Александрович",
+        "course": 4,
+        "role": "участник",
+        "registration_id": 39,
+        "created_at": "2026-10-10T12:54:30.569249",
+        "is_available": true
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Вертикальный прайм",
+    "institution": "Архангельский колледж телекоммуникаций им. Б.Л. Розинга (филиал) федерального государственного бюджетного образовательного учреждения высшего образования \"Санкт-Петербургский государственный университет телекоммуникаций им. проф. М.А. Бонч-Бруевича",
+    "amount_participants": 5,
+    "participation_form": "Дистанционная",
+    "level_education": "спо 9класс",
+    "selected_case": 4,
+    "spare_case": 5,
+    "captain_phone": "+7 (911) 563-85-49",
+    "captain_email": "timoshenk0nikita@yandex.ru",
+    "curator_data": {
+      "fio": "Садков Анатолий Александрович",
+      "phone": "+7 (921) 720-29-30"
+    },
+    "agreement": true,
+    "acquaintance": true,
+    "created_at": "2026-10-10T11:40:29.154507",
+    "is_available": true,
+    "participants": [
+      {
+        "id": 159,
+        "fio": "Тимошенко Никита Андреевич",
+        "course": 4,
+        "role": "капитан",
+        "registration_id": 38,
+        "created_at": "2026-10-10T11:40:29.154507",
+        "is_available": true
+      },
+      {
+        "id": 160,
+        "fio": "Конев Савелий Алексеевич",
+        "course": 4,
+        "role": "участник",
+        "registration_id": 38,
+        "created_at": "2026-10-10T11:40:29.154507",
+        "is_available": true
+      },
+      {
+        "id": 161,
+        "fio": "Осташова Лилия Тимуровна",
+        "course": 4,
+        "role": "участник",
+        "registration_id": 38,
+        "created_at": "2026-10-10T11:40:29.154507",
+        "is_available": true
+      },
+      {
+        "id": 162,
+        "fio": "Кузилова Алина Владимировна",
+        "course": 4,
+        "role": "участник",
+        "registration_id": 38,
+        "created_at": "2026-10-10T11:40:29.154507",
+        "is_available": true
+      },
+      {
+        "id": 163,
+        "fio": "Момотова Алина Алексеевна",
+        "course": 4,
+        "role": "участник",
+        "registration_id": 38,
+        "created_at": "2026-10-10T11:40:29.154507",
+        "is_available": true
+      }
+    ]
+  },
+  {
     "id": 37,
     "name": "Ред флаг",
     "institution": "УРТИСИ СибГУТИ ",
