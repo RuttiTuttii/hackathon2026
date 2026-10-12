@@ -1,5 +1,63 @@
 [
   {
+    "id": 45,
+    "name": "Hysteria",
+    "institution": "Колледж Телекоммуникации и Информатики СибГУТИ",
+    "amount_participants": 4,
+    "participation_form": "Очная",
+    "level_education": "спо 9класс",
+    "selected_case": 4,
+    "spare_case": 5,
+    "captain_phone": "+7 (953) 762-41-50",
+    "captain_email": "neodepta@gmail.com",
+    "curator_data": {
+      "fio": "Огольцов Сергей Николаевич",
+      "phone": "+7 (913) 927-48-00"
+    },
+    "agreement": true,
+    "acquaintance": true,
+    "created_at": "2026-10-12T02:19:17.315658",
+    "is_available": true,
+    "participants": [
+      {
+        "id": 189,
+        "fio": "Минхаеров Дмитрий Вадимович",
+        "course": 3,
+        "role": "капитан",
+        "registration_id": 45,
+        "created_at": "2026-10-12T02:19:17.315658",
+        "is_available": true
+      },
+      {
+        "id": 190,
+        "fio": "Левашов Ярослав Борисович",
+        "course": 3,
+        "role": "участник",
+        "registration_id": 45,
+        "created_at": "2026-10-12T02:19:17.315658",
+        "is_available": true
+      },
+      {
+        "id": 191,
+        "fio": "Евдаков Андрей Юрьевич",
+        "course": 3,
+        "role": "участник",
+        "registration_id": 45,
+        "created_at": "2026-10-12T02:19:17.315658",
+        "is_available": true
+      },
+      {
+        "id": 192,
+        "fio": "Сахненко Евгений Алексеевич",
+        "course": 3,
+        "role": "участник",
+        "registration_id": 45,
+        "created_at": "2026-10-12T02:19:17.315658",
+        "is_available": true
+      }
+    ]
+  },
+  {
     "id": 44,
     "name": "Stars",
     "institution": "УУНиТ",
