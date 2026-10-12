@@ -1,5 +1,112 @@
 [
   {
+    "id": 47,
+    "name": "Andy_Twerk11",
+    "institution": "Уральский технический институт связи и информатики (филиал) федерального государственного бюджетного образовательного учреждения высшего образования «Сибирский государственный университет телекоммуникаций и информатики",
+    "amount_participants": 3,
+    "participation_form": "Дистанционная",
+    "level_education": "бакалавриат/специалитет",
+    "selected_case": 3,
+    "spare_case": 2,
+    "captain_phone": "+7 (922) 020-95-38",
+    "captain_email": "gogollod@yandex.ru",
+    "curator_data": {
+      "fio": "Глушко Мила Игоревна",
+      "phone": "+7 (939) 609-03-90"
+    },
+    "agreement": true,
+    "acquaintance": true,
+    "created_at": "2026-10-12T14:13:23.038578",
+    "is_available": true,
+    "participants": [
+      {
+        "id": 202,
+        "fio": "Шайхиев Матвей Михайлович",
+        "course": 1,
+        "role": "участник",
+        "registration_id": 47,
+        "created_at": "2026-10-12T14:13:23.038578",
+        "is_available": true
+      },
+      {
+        "id": 203,
+        "fio": "Кривошеев Павел Олегович",
+        "course": 1,
+        "role": "капитан",
+        "registration_id": 47,
+        "created_at": "2026-10-12T14:13:23.038578",
+        "is_available": true
+      },
+      {
+        "id": 204,
+        "fio": "Маринин Георгий Владимерович",
+        "course": 1,
+        "role": "участник",
+        "registration_id": 47,
+        "created_at": "2026-10-12T14:13:23.038578",
+        "is_available": true
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Симпапульки",
+    "institution": "УрТИСИ СибГУТИ",
+    "amount_participants": 4,
+    "participation_form": "Очная",
+    "level_education": "бакалавриат/специалитет",
+    "selected_case": 6,
+    "spare_case": 5,
+    "captain_phone": "+7 (964) 487-91-85",
+    "captain_email": "maximkulikov2005@gmail.com",
+    "curator_data": {
+      "fio": "Плеханов Савелий Михайлович",
+      "phone": "+7 (908) 639-17-71"
+    },
+    "agreement": true,
+    "acquaintance": true,
+    "created_at": "2026-10-12T13:45:10.987027",
+    "is_available": true,
+    "participants": [
+      {
+        "id": 198,
+        "fio": "Куликов Максим Андреевич",
+        "course": 4,
+        "role": "капитан",
+        "registration_id": 46,
+        "created_at": "2026-10-12T13:45:10.987027",
+        "is_available": true
+      },
+      {
+        "id": 199,
+        "fio": "Михайлова Анастасия Алексеевна",
+        "course": 4,
+        "role": "участник",
+        "registration_id": 46,
+        "created_at": "2026-10-12T13:45:10.987027",
+        "is_available": true
+      },
+      {
+        "id": 200,
+        "fio": "Федюков Никита Сергеевич",
+        "course": 4,
+        "role": "участник",
+        "registration_id": 46,
+        "created_at": "2026-10-12T13:45:10.987027",
+        "is_available": true
+      },
+      {
+        "id": 201,
+        "fio": "Сидорова Светлана Анатольевна",
+        "course": 4,
+        "role": "участник",
+        "registration_id": 46,
+        "created_at": "2026-10-12T13:45:10.987027",
+        "is_available": true
+      }
+    ]
+  },
+  {
     "id": 45,
     "name": "Hysteria",
     "institution": "Колледж Телекоммуникации и Информатики СибГУТИ",
@@ -1042,48 +1149,48 @@
     "is_available": true,
     "participants": [
       {
-        "id": 116,
+        "id": 193,
         "fio": "Максимов Кирилл Вадимович",
-        "course": 5,
+        "course": 4,
         "role": "участник",
         "registration_id": 28,
-        "created_at": "2026-10-08T07:39:35.069697",
+        "created_at": "2026-10-12T10:57:55.855069",
         "is_available": true
       },
       {
-        "id": 117,
+        "id": 194,
         "fio": "Нецветаев Никита Викторович",
-        "course": 5,
+        "course": 4,
         "role": "участник",
         "registration_id": 28,
-        "created_at": "2026-10-08T07:39:35.069697",
+        "created_at": "2026-10-12T10:57:55.855069",
         "is_available": true
       },
       {
-        "id": 118,
+        "id": 195,
         "fio": "Шумилова Полина Алексеевна",
-        "course": 5,
+        "course": 4,
         "role": "капитан",
         "registration_id": 28,
-        "created_at": "2026-10-08T07:39:35.069697",
+        "created_at": "2026-10-12T10:57:55.855069",
         "is_available": true
       },
       {
-        "id": 119,
+        "id": 196,
         "fio": "Швец Никита Вадимович",
-        "course": 5,
+        "course": 4,
         "role": "участник",
         "registration_id": 28,
-        "created_at": "2026-10-08T07:39:35.069697",
+        "created_at": "2026-10-12T10:57:55.855069",
         "is_available": true
       },
       {
-        "id": 120,
+        "id": 197,
         "fio": "Ольга Камкина Андреевна",
-        "course": 5,
+        "course": 4,
         "role": "участник",
         "registration_id": 28,
-        "created_at": "2026-10-08T07:39:35.069697",
+        "created_at": "2026-10-12T10:57:55.855069",
         "is_available": true
       }
     ]
