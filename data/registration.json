@@ -1,5 +1,63 @@
 [
   {
+    "id": 62,
+    "name": "Системщики",
+    "institution": "КТИ СибГУТИ",
+    "amount_participants": 4,
+    "participation_form": "Дистанционная",
+    "level_education": "спо 9класс",
+    "selected_case": 4,
+    "spare_case": 6,
+    "captain_phone": "+7 (901) 458-61-21",
+    "captain_email": "cankill12321@gmail.com",
+    "curator_data": {
+      "fio": "Огольцов Сергей Николаевич",
+      "phone": "+7 (913) 892-89-20"
+    },
+    "agreement": true,
+    "acquaintance": true,
+    "created_at": "2026-10-13T03:43:43.716630",
+    "is_available": true,
+    "participants": [
+      {
+        "id": 211,
+        "fio": "Тагильцева Лилия Ивановна",
+        "course": 4,
+        "role": "участник",
+        "registration_id": 62,
+        "created_at": "2026-10-13T03:43:43.716630",
+        "is_available": true
+      },
+      {
+        "id": 212,
+        "fio": "Волегов Родион Сергеевич",
+        "course": 4,
+        "role": "капитан",
+        "registration_id": 62,
+        "created_at": "2026-10-13T03:43:43.716630",
+        "is_available": true
+      },
+      {
+        "id": 213,
+        "fio": "Дьяков Дмитрий Александрович",
+        "course": 4,
+        "role": "участник",
+        "registration_id": 62,
+        "created_at": "2026-10-13T03:43:43.716630",
+        "is_available": true
+      },
+      {
+        "id": 214,
+        "fio": "Сат Владимир Владимирович",
+        "course": 4,
+        "role": "участник",
+        "registration_id": 62,
+        "created_at": "2026-10-13T03:43:43.716630",
+        "is_available": true
+      }
+    ]
+  },
+  {
     "id": 47,
     "name": "Andy_Twerk11",
     "institution": "Уральский технический институт связи и информатики (филиал) федерального государственного бюджетного образовательного учреждения высшего образования «Сибирский государственный университет телекоммуникаций и информатики",
