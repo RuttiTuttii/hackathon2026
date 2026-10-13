@@ -1,5 +1,72 @@
 [
   {
+    "id": 64,
+    "name": "Движение вторых",
+    "institution": "Уртиси СибГУТИ",
+    "amount_participants": 5,
+    "participation_form": "Очная",
+    "level_education": "спо 11класс",
+    "selected_case": 2,
+    "spare_case": 3,
+    "captain_phone": "+7 (900) 033-61-92",
+    "captain_email": "alecseyshvecov@gmail.com",
+    "curator_data": {
+      "fio": "Казанцев Михаил Юрьевич",
+      "phone": "+7 (982) 630-87-17"
+    },
+    "agreement": true,
+    "acquaintance": true,
+    "created_at": "2026-10-13T09:13:12.478027",
+    "is_available": true,
+    "participants": [
+      {
+        "id": 217,
+        "fio": "Швецов Алексей Андреевич",
+        "course": 1,
+        "role": "капитан",
+        "registration_id": 64,
+        "created_at": "2026-10-13T09:13:12.478027",
+        "is_available": true
+      },
+      {
+        "id": 218,
+        "fio": "Вакушин Денис Анатольевич",
+        "course": 1,
+        "role": "участник",
+        "registration_id": 64,
+        "created_at": "2026-10-13T09:13:12.478027",
+        "is_available": true
+      },
+      {
+        "id": 219,
+        "fio": "Васильев Константин Алексеевич",
+        "course": 1,
+        "role": "участник",
+        "registration_id": 64,
+        "created_at": "2026-10-13T09:13:12.478027",
+        "is_available": true
+      },
+      {
+        "id": 220,
+        "fio": "Мамаджонов Аминджон Султонович",
+        "course": 1,
+        "role": "участник",
+        "registration_id": 64,
+        "created_at": "2026-10-13T09:13:12.478027",
+        "is_available": true
+      },
+      {
+        "id": 221,
+        "fio": "Гагаринов Алексей Вячеславович",
+        "course": 1,
+        "role": "участник",
+        "registration_id": 64,
+        "created_at": "2026-10-13T09:13:12.478027",
+        "is_available": true
+      }
+    ]
+  },
+  {
     "id": 62,
     "name": "Системщики",
     "institution": "КТИ СибГУТИ",
@@ -2238,8 +2305,8 @@
     "captain_phone": "+7 (922) 123-00-69",
     "captain_email": "diglmen1221@gmail.com",
     "curator_data": {
-      "fio": "Мишарина Жанна Викторовна ",
-      "phone": "+7 (904) 984-06-77"
+      "fio": "Абрашов Максим Александрович",
+      "phone": "+7 (908) 915-04-18"
     },
     "agreement": true,
     "acquaintance": true,
@@ -2247,30 +2314,30 @@
     "is_available": true,
     "participants": [
       {
-        "id": 33,
+        "id": 228,
         "fio": "Федосимов Никита Александрович",
         "course": 3,
         "role": "капитан",
         "registration_id": 8,
-        "created_at": "2026-10-06T06:45:40.567408",
+        "created_at": "2026-10-13T09:55:54.361481",
         "is_available": true
       },
       {
-        "id": 34,
+        "id": 229,
         "fio": "Зыков Егор Иванович",
         "course": 3,
         "role": "участник",
         "registration_id": 8,
-        "created_at": "2026-10-06T06:45:40.567408",
+        "created_at": "2026-10-13T09:55:54.361481",
         "is_available": true
       },
       {
-        "id": 35,
+        "id": 230,
         "fio": "Ведерников Егор Евгеньевич",
         "course": 3,
         "role": "участник",
         "registration_id": 8,
-        "created_at": "2026-10-06T06:45:40.567408",
+        "created_at": "2026-10-13T09:55:54.361481",
         "is_available": true
       }
     ]
