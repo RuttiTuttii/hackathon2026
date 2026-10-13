@@ -1,5 +1,152 @@
 [
   {
+    "id": 67,
+    "name": "pwn3d",
+    "institution": "СибГУТИ",
+    "amount_participants": 2,
+    "participation_form": "Очная",
+    "level_education": "бакалавриат/специалитет",
+    "selected_case": 1,
+    "spare_case": 3,
+    "captain_phone": "+7 (913) 000-48-80",
+    "captain_email": "blxckbusta@bk.ru",
+    "curator_data": {
+      "fio": "Андреев Андрей Валерьевич",
+      "phone": "+7 (913) 005-10-26"
+    },
+    "agreement": true,
+    "acquaintance": true,
+    "created_at": "2026-10-13T18:20:43.211494",
+    "is_available": true,
+    "participants": [
+      {
+        "id": 238,
+        "fio": "Язиков Денис Александрович",
+        "course": 2,
+        "role": "капитан",
+        "registration_id": 67,
+        "created_at": "2026-10-13T18:20:43.211494",
+        "is_available": true
+      },
+      {
+        "id": 239,
+        "fio": "Мазурина Екатерина Сергеевна",
+        "course": 2,
+        "role": "участник",
+        "registration_id": 67,
+        "created_at": "2026-10-13T18:20:43.211494",
+        "is_available": true
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Влад половников",
+    "institution": "Колледж Царицыно ",
+    "amount_participants": 2,
+    "participation_form": "Очная",
+    "level_education": "спо 9класс",
+    "selected_case": 6,
+    "spare_case": 5,
+    "captain_phone": "+7 (929) 242-56-01",
+    "captain_email": "vladislavpolovnikov24@gmail.com",
+    "curator_data": {
+      "fio": "Зеленина Татьяна Владимировна ",
+      "phone": "+7 (967) 084-82-52"
+    },
+    "agreement": true,
+    "acquaintance": true,
+    "created_at": "2026-10-13T18:10:48.980993",
+    "is_available": true,
+    "participants": [
+      {
+        "id": 236,
+        "fio": "Половников Владислав Евгеньевич",
+        "course": 3,
+        "role": "капитан",
+        "registration_id": 66,
+        "created_at": "2026-10-13T18:10:48.980993",
+        "is_available": true
+      },
+      {
+        "id": 237,
+        "fio": "григорьев семён александрович",
+        "course": 3,
+        "role": "участник",
+        "registration_id": 66,
+        "created_at": "2026-10-13T18:10:48.980993",
+        "is_available": true
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Взлом Пентагона",
+    "institution": "ВВФ МТУСИ",
+    "amount_participants": 5,
+    "participation_form": "Очная",
+    "level_education": "спо 9класс",
+    "selected_case": 6,
+    "spare_case": 3,
+    "captain_phone": "+7 (920) 027-82-05",
+    "captain_email": "kekers507y@gmail.com",
+    "curator_data": {
+      "fio": "Салопаев Владислав Игоревич",
+      "phone": "+7 (930) 818-19-30"
+    },
+    "agreement": true,
+    "acquaintance": true,
+    "created_at": "2026-10-13T14:40:39.127601",
+    "is_available": true,
+    "participants": [
+      {
+        "id": 231,
+        "fio": "Староверов Ярослав Сергеевич",
+        "course": 3,
+        "role": "капитан",
+        "registration_id": 65,
+        "created_at": "2026-10-13T14:40:39.127601",
+        "is_available": true
+      },
+      {
+        "id": 232,
+        "fio": "Воропаева София Дмитриевна",
+        "course": 3,
+        "role": "участник",
+        "registration_id": 65,
+        "created_at": "2026-10-13T14:40:39.127601",
+        "is_available": true
+      },
+      {
+        "id": 233,
+        "fio": "Чилибанова Вероника Игоревна",
+        "course": 3,
+        "role": "участник",
+        "registration_id": 65,
+        "created_at": "2026-10-13T14:40:39.127601",
+        "is_available": true
+      },
+      {
+        "id": 234,
+        "fio": "Чесноков Артём Иванович",
+        "course": 4,
+        "role": "участник",
+        "registration_id": 65,
+        "created_at": "2026-10-13T14:40:39.127601",
+        "is_available": true
+      },
+      {
+        "id": 235,
+        "fio": "Щербаков Артём Илич",
+        "course": 3,
+        "role": "участник",
+        "registration_id": 65,
+        "created_at": "2026-10-13T14:40:39.127601",
+        "is_available": true
+      }
+    ]
+  },
+  {
     "id": 64,
     "name": "Движение вторых",
     "institution": "Уртиси СибГУТИ",

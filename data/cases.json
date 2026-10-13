@@ -7,10 +7,10 @@
     "description": "Знание норм и правил:\n•\tГОСТ Р 51558-2014;\n•\tГОСТ Р 70268.1-2023;\n•\tПУЭ;\n•\tСП 134.13330.2012\n\nВладение навыками работы в программах САПР\n",
     "partner_id": 3,
     "partner_name": "Инсис",
-    "partner_image": "/media/partners/3fb7678f26694a54bc6097d2ebb02a24.png",
+    "partner_image": "/media/partners/1f742c6a01184a55a8bdea0da74ef33a.png",
     "is_available": true,
     "teams_count": 10,
-    "registered_teams_count": 5,
+    "registered_teams_count": 6,
     "created_at": "2026-09-23"
   },
   {
@@ -35,7 +35,7 @@
     "description": "Язык программирования C# NET Framework 4.5. \nБаза данных MSSQL 2019. ",
     "partner_id": 8,
     "partner_name": "Главный радиочастотный центр",
-    "partner_image": "/media/partners/36a4cc26587d40c5925e14a50f617b38.png",
+    "partner_image": "/media/partners/08a2a45a1db6464fadefc801439efd1f.png",
     "is_available": true,
     "teams_count": 10,
     "registered_teams_count": 7,
@@ -80,7 +80,7 @@
     "partner_image": "/media/partners/ab7b8edefdf645998e274b4e17796bf1.png",
     "is_available": true,
     "teams_count": 12,
-    "registered_teams_count": 2,
+    "registered_teams_count": 4,
     "created_at": "2026-09-23"
   }
 ]
