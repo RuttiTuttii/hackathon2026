@@ -1,5 +1,344 @@
 [
   {
+    "id": 82,
+    "name": "Айти ",
+    "institution": "Смоленский колледж телекоммуникаций ",
+    "amount_participants": 3,
+    "participation_form": "Дистанционная",
+    "level_education": "спо 9класс",
+    "selected_case": 6,
+    "spare_case": 1,
+    "captain_phone": "+7 (920) 669-48-63",
+    "captain_email": "Vokavol3@gmail.com",
+    "curator_data": {
+      "fio": "Зимина Екатерина Андреевна",
+      "phone": "+7 (999) 769-97-83"
+    },
+    "agreement": true,
+    "acquaintance": true,
+    "created_at": "2026-10-15T08:46:49.187769",
+    "is_available": true,
+    "participants": [
+      {
+        "id": 306,
+        "fio": "Волкова Виктория Денисовна",
+        "course": 3,
+        "role": "капитан",
+        "registration_id": 82,
+        "created_at": "2026-10-15T08:46:49.187769",
+        "is_available": true
+      },
+      {
+        "id": 307,
+        "fio": "Маслобойников Максимилиан Игоревич",
+        "course": 4,
+        "role": "участник",
+        "registration_id": 82,
+        "created_at": "2026-10-15T08:46:49.187769",
+        "is_available": true
+      },
+      {
+        "id": 308,
+        "fio": "Прокопкина Мария Сергеевна",
+        "course": 3,
+        "role": "участник",
+        "registration_id": 82,
+        "created_at": "2026-10-15T08:46:49.187769",
+        "is_available": true
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "name": "Миньоны",
+    "institution": "Хабаровский институт инфокоммуникаций (филиал) СибГУТИ",
+    "amount_participants": 5,
+    "participation_form": "Дистанционная",
+    "level_education": "бакалавриат/специалитет",
+    "selected_case": 2,
+    "spare_case": 1,
+    "captain_phone": "+7 (914) 216-20-96",
+    "captain_email": "arhipnazyrov@yandex.ru",
+    "curator_data": {
+      "fio": "Ненашев Евгений Владимирович",
+      "phone": "+7 (924) 105-83-84"
+    },
+    "agreement": true,
+    "acquaintance": true,
+    "created_at": "2026-10-15T08:07:27.780782",
+    "is_available": true,
+    "participants": [
+      {
+        "id": 301,
+        "fio": "Назыров Архип  Борисович",
+        "course": 2,
+        "role": "капитан",
+        "registration_id": 81,
+        "created_at": "2026-10-15T08:07:27.780782",
+        "is_available": true
+      },
+      {
+        "id": 302,
+        "fio": "Сивачёв Илья Никитич",
+        "course": 2,
+        "role": "участник",
+        "registration_id": 81,
+        "created_at": "2026-10-15T08:07:27.780782",
+        "is_available": true
+      },
+      {
+        "id": 303,
+        "fio": "Луценко Даниил Михайлович",
+        "course": 2,
+        "role": "участник",
+        "registration_id": 81,
+        "created_at": "2026-10-15T08:07:27.780782",
+        "is_available": true
+      },
+      {
+        "id": 304,
+        "fio": "Тарасевич Николай Игоревич",
+        "course": 2,
+        "role": "участник",
+        "registration_id": 81,
+        "created_at": "2026-10-15T08:07:27.780782",
+        "is_available": true
+      },
+      {
+        "id": 305,
+        "fio": "Ворошилова Елизавета Игоревна",
+        "course": 2,
+        "role": "участник",
+        "registration_id": 81,
+        "created_at": "2026-10-15T08:07:27.780782",
+        "is_available": true
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "name": "SYN-ACK",
+    "institution": "Хабаровский институт инфокоммуникаций (филиал) СибГУТИ",
+    "amount_participants": 3,
+    "participation_form": "Дистанционная",
+    "level_education": "бакалавриат/специалитет",
+    "selected_case": 6,
+    "spare_case": 1,
+    "captain_phone": "+7 (924) 216-77-40",
+    "captain_email": "clava122003@mail.ru",
+    "curator_data": {
+      "fio": "Ненашев Евгений Владимирович",
+      "phone": "+7 (924) 105-83-84"
+    },
+    "agreement": true,
+    "acquaintance": true,
+    "created_at": "2026-10-15T07:32:34.418496",
+    "is_available": true,
+    "participants": [
+      {
+        "id": 298,
+        "fio": "Кодиров Карим Ахмаджонович",
+        "course": 3,
+        "role": "участник",
+        "registration_id": 80,
+        "created_at": "2026-10-15T07:32:34.418496",
+        "is_available": true
+      },
+      {
+        "id": 299,
+        "fio": "Петров Демьян",
+        "course": 3,
+        "role": "участник",
+        "registration_id": 80,
+        "created_at": "2026-10-15T07:32:34.418496",
+        "is_available": true
+      },
+      {
+        "id": 300,
+        "fio": "Чернецкий Вячеслав Дмитриевич",
+        "course": 3,
+        "role": "капитан",
+        "registration_id": 80,
+        "created_at": "2026-10-15T07:32:34.418496",
+        "is_available": true
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "name": "глупенькость",
+    "institution": "ХИИК сибГУТИ",
+    "amount_participants": 4,
+    "participation_form": "Очная",
+    "level_education": "спо 9класс",
+    "selected_case": 6,
+    "spare_case": 5,
+    "captain_phone": "+7 (929) 408-04-34",
+    "captain_email": "egorgorelchenko@gmail.com",
+    "curator_data": {
+      "fio": "Нинашев Евгений Владимирович",
+      "phone": "+7 (924) 105-83-84"
+    },
+    "agreement": true,
+    "acquaintance": true,
+    "created_at": "2026-10-15T07:22:36.064207",
+    "is_available": true,
+    "participants": [
+      {
+        "id": 294,
+        "fio": "Горельченко Егор Алексеевич",
+        "course": 4,
+        "role": "капитан",
+        "registration_id": 79,
+        "created_at": "2026-10-15T07:22:36.064207",
+        "is_available": true
+      },
+      {
+        "id": 295,
+        "fio": "Бекетова Алиса Романова",
+        "course": 4,
+        "role": "участник",
+        "registration_id": 79,
+        "created_at": "2026-10-15T07:22:36.064207",
+        "is_available": true
+      },
+      {
+        "id": 296,
+        "fio": "Михайлов Артём Вячеславович",
+        "course": 4,
+        "role": "участник",
+        "registration_id": 79,
+        "created_at": "2026-10-15T07:22:36.064207",
+        "is_available": true
+      },
+      {
+        "id": 297,
+        "fio": "Бережнов Глеб Дмитриевич",
+        "course": 4,
+        "role": "участник",
+        "registration_id": 79,
+        "created_at": "2026-10-15T07:22:36.064207",
+        "is_available": true
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "name": "Упст - умные позитивные студенты технари",
+    "institution": "Хабаровский институт инфокоммуникаций (филиал) СибГУТИ",
+    "amount_participants": 5,
+    "participation_form": "Дистанционная",
+    "level_education": "бакалавриат/специалитет",
+    "selected_case": 6,
+    "spare_case": 5,
+    "captain_phone": "+7 (902) 052-87-62",
+    "captain_email": "olesinia11@gmail.com",
+    "curator_data": {
+      "fio": "Ненашев Евгений Владимировияч",
+      "phone": "+7 (924) 105-83-84"
+    },
+    "agreement": true,
+    "acquaintance": true,
+    "created_at": "2026-10-15T06:53:54.275563",
+    "is_available": true,
+    "participants": [
+      {
+        "id": 289,
+        "fio": "Склёмин Захар Витальевич",
+        "course": 3,
+        "role": "капитан",
+        "registration_id": 78,
+        "created_at": "2026-10-15T06:53:54.275563",
+        "is_available": true
+      },
+      {
+        "id": 290,
+        "fio": "Колыванов Илья Николаевич",
+        "course": 3,
+        "role": "участник",
+        "registration_id": 78,
+        "created_at": "2026-10-15T06:53:54.275563",
+        "is_available": true
+      },
+      {
+        "id": 291,
+        "fio": "Дурейкин Владислав Максимович",
+        "course": 3,
+        "role": "участник",
+        "registration_id": 78,
+        "created_at": "2026-10-15T06:53:54.275563",
+        "is_available": true
+      },
+      {
+        "id": 292,
+        "fio": "Старченко Павел Юрьевич",
+        "course": 3,
+        "role": "участник",
+        "registration_id": 78,
+        "created_at": "2026-10-15T06:53:54.275563",
+        "is_available": true
+      },
+      {
+        "id": 293,
+        "fio": "Терёшкин Никита Григорьевич",
+        "course": 3,
+        "role": "участник",
+        "registration_id": 78,
+        "created_at": "2026-10-15T06:53:54.275563",
+        "is_available": true
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "name": "Cognito Inc.",
+    "institution": "Хабаровский институт инфокоммуникаций (филиал) СибГУТИ",
+    "amount_participants": 3,
+    "participation_form": "Дистанционная",
+    "level_education": "бакалавриат/специалитет",
+    "selected_case": 2,
+    "spare_case": 1,
+    "captain_phone": "+7 (909) 854-25-40",
+    "captain_email": "vgm006@mail.ru",
+    "curator_data": {
+      "fio": "Ненашев Евгений Владимирович",
+      "phone": "+7 (924) 105-83-84"
+    },
+    "agreement": true,
+    "acquaintance": true,
+    "created_at": "2026-10-15T06:40:49.585912",
+    "is_available": true,
+    "participants": [
+      {
+        "id": 286,
+        "fio": "Максимов Вячеслав Георгиевич",
+        "course": 1,
+        "role": "капитан",
+        "registration_id": 77,
+        "created_at": "2026-10-15T06:40:49.585912",
+        "is_available": true
+      },
+      {
+        "id": 287,
+        "fio": "Житов Данила Андреевич",
+        "course": 1,
+        "role": "участник",
+        "registration_id": 77,
+        "created_at": "2026-10-15T06:40:49.585912",
+        "is_available": true
+      },
+      {
+        "id": 288,
+        "fio": "Максимов Матвей Николаевич",
+        "course": 1,
+        "role": "участник",
+        "registration_id": 77,
+        "created_at": "2026-10-15T06:40:49.585912",
+        "is_available": true
+      }
+    ]
+  },
+  {
     "id": 76,
     "name": "Провод и Беспровод",
     "institution": "Хабаровский институт инфокоммуникаций (филиал) СибГУТИ",
