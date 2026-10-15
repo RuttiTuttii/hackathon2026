@@ -1,5 +1,72 @@
 [
   {
+    "id": 83,
+    "name": "Старков Илья Игоревич",
+    "institution": "УрТИСИ СибГУТИ",
+    "amount_participants": 5,
+    "participation_form": "Очная",
+    "level_education": "бакалавриат/специалитет",
+    "selected_case": 1,
+    "spare_case": 6,
+    "captain_phone": "+7 (966) 706-98-38",
+    "captain_email": "ilyastarkov2008@gmail.com",
+    "curator_data": {
+      "fio": "Митьковская Анастасия Александровна",
+      "phone": "+7 (912) 689-12-43"
+    },
+    "agreement": true,
+    "acquaintance": true,
+    "created_at": "2026-10-15T20:26:27.330103",
+    "is_available": true,
+    "participants": [
+      {
+        "id": 309,
+        "fio": "Старков Илья Игоревич",
+        "course": 1,
+        "role": "капитан",
+        "registration_id": 83,
+        "created_at": "2026-10-15T20:26:27.330103",
+        "is_available": true
+      },
+      {
+        "id": 310,
+        "fio": "Ящук Михаил Николаевич",
+        "course": 1,
+        "role": "участник",
+        "registration_id": 83,
+        "created_at": "2026-10-15T20:26:27.330103",
+        "is_available": true
+      },
+      {
+        "id": 311,
+        "fio": "Петров Кирилл Александрович",
+        "course": 1,
+        "role": "участник",
+        "registration_id": 83,
+        "created_at": "2026-10-15T20:26:27.330103",
+        "is_available": true
+      },
+      {
+        "id": 312,
+        "fio": "Ремезов Виктор Сергеевич",
+        "course": 1,
+        "role": "участник",
+        "registration_id": 83,
+        "created_at": "2026-10-15T20:26:27.330103",
+        "is_available": true
+      },
+      {
+        "id": 313,
+        "fio": "Потапов Егор Алексеевич",
+        "course": 1,
+        "role": "участник",
+        "registration_id": 83,
+        "created_at": "2026-10-15T20:26:27.330103",
+        "is_available": true
+      }
+    ]
+  },
+  {
     "id": 82,
     "name": "Айти ",
     "institution": "Смоленский колледж телекоммуникаций ",
