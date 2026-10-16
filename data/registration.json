@@ -1,5 +1,197 @@
 [
   {
+    "id": 87,
+    "name": "Vibecoders",
+    "institution": "УрТИСИ СибГУТИ ",
+    "amount_participants": 4,
+    "participation_form": "Очная",
+    "level_education": "бакалавриат/специалитет",
+    "selected_case": 2,
+    "spare_case": 1,
+    "captain_phone": "+7 (951) 250-99-19",
+    "captain_email": "seatones.eve@gmail.com",
+    "curator_data": {
+      "fio": "Юрченко Евгения Владимировна",
+      "phone": "+7 (904) 389-08-43"
+    },
+    "agreement": true,
+    "acquaintance": true,
+    "created_at": "2026-10-16T12:35:04.530298",
+    "is_available": true,
+    "participants": [
+      {
+        "id": 328,
+        "fio": "Михалкин Григорий Михайлович",
+        "course": 1,
+        "role": "капитан",
+        "registration_id": 87,
+        "created_at": "2026-10-16T12:35:04.530298",
+        "is_available": true
+      },
+      {
+        "id": 329,
+        "fio": "Исламгулов Кир Эдуардович",
+        "course": 1,
+        "role": "участник",
+        "registration_id": 87,
+        "created_at": "2026-10-16T12:35:04.530298",
+        "is_available": true
+      },
+      {
+        "id": 330,
+        "fio": "Руденко Владислав Эдуардович",
+        "course": 1,
+        "role": "участник",
+        "registration_id": 87,
+        "created_at": "2026-10-16T12:35:04.530298",
+        "is_available": true
+      },
+      {
+        "id": 331,
+        "fio": "Бердюгин Григорий Александрович",
+        "course": 1,
+        "role": "участник",
+        "registration_id": 87,
+        "created_at": "2026-10-16T12:35:04.530298",
+        "is_available": true
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "name": "Пять кадров",
+    "institution": "УрТИСИ СибГУТИ ",
+    "amount_participants": 5,
+    "participation_form": "Дистанционная",
+    "level_education": "бакалавриат/специалитет",
+    "selected_case": 1,
+    "spare_case": 3,
+    "captain_phone": "+7 (952) 529-92-51",
+    "captain_email": "tera112.plyt@gmail.com",
+    "curator_data": {
+      "fio": "Кусайкин Дмитрий Вячеславович ",
+      "phone": "+7 (982) 671-04-90"
+    },
+    "agreement": true,
+    "acquaintance": true,
+    "created_at": "2026-10-16T09:42:23.035469",
+    "is_available": true,
+    "participants": [
+      {
+        "id": 323,
+        "fio": "Огородова Алёна Александровна",
+        "course": 2,
+        "role": "капитан",
+        "registration_id": 86,
+        "created_at": "2026-10-16T09:42:23.035469",
+        "is_available": true
+      },
+      {
+        "id": 324,
+        "fio": "Шигина Татьяна Андреевна",
+        "course": 2,
+        "role": "участник",
+        "registration_id": 86,
+        "created_at": "2026-10-16T09:42:23.035469",
+        "is_available": true
+      },
+      {
+        "id": 325,
+        "fio": "Яковлева Анастасия Сергеевна",
+        "course": 2,
+        "role": "участник",
+        "registration_id": 86,
+        "created_at": "2026-10-16T09:42:23.035469",
+        "is_available": true
+      },
+      {
+        "id": 326,
+        "fio": "Стефогло Алина Сергеевна",
+        "course": 2,
+        "role": "участник",
+        "registration_id": 86,
+        "created_at": "2026-10-16T09:42:23.035469",
+        "is_available": true
+      },
+      {
+        "id": 327,
+        "fio": "Шпирка Алексей Владиславович",
+        "course": 2,
+        "role": "участник",
+        "registration_id": 86,
+        "created_at": "2026-10-16T09:42:23.035469",
+        "is_available": true
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "name": "Бригада 5 гадов",
+    "institution": "УрТИСИ",
+    "amount_participants": 5,
+    "participation_form": "Очная",
+    "level_education": "бакалавриат/специалитет",
+    "selected_case": 1,
+    "spare_case": 6,
+    "captain_phone": "+7 (912) 038-77-34",
+    "captain_email": "redsoni01@mail.ru",
+    "curator_data": {
+      "fio": "Мачульский Михаил Андреевич",
+      "phone": "+7 (912) 647-86-95"
+    },
+    "agreement": true,
+    "acquaintance": true,
+    "created_at": "2026-10-16T07:51:01.920172",
+    "is_available": true,
+    "participants": [
+      {
+        "id": 318,
+        "fio": "Шашмурин Егор Владимирович",
+        "course": 2,
+        "role": "капитан",
+        "registration_id": 85,
+        "created_at": "2026-10-16T07:51:01.920172",
+        "is_available": true
+      },
+      {
+        "id": 319,
+        "fio": "Муслахов Михаил Сергеевич",
+        "course": 2,
+        "role": "участник",
+        "registration_id": 85,
+        "created_at": "2026-10-16T07:51:01.920172",
+        "is_available": true
+      },
+      {
+        "id": 320,
+        "fio": "Власов Александр Сергеевич",
+        "course": 2,
+        "role": "участник",
+        "registration_id": 85,
+        "created_at": "2026-10-16T07:51:01.920172",
+        "is_available": true
+      },
+      {
+        "id": 321,
+        "fio": "Сëмкин Иван Владимирович",
+        "course": 2,
+        "role": "участник",
+        "registration_id": 85,
+        "created_at": "2026-10-16T07:51:01.920172",
+        "is_available": true
+      },
+      {
+        "id": 322,
+        "fio": "Лебедев Вадим Андреевич",
+        "course": 2,
+        "role": "участник",
+        "registration_id": 85,
+        "created_at": "2026-10-16T07:51:01.920172",
+        "is_available": true
+      }
+    ]
+  },
+  {
     "id": 84,
     "name": "Гении помех",
     "institution": "СибГУТИ",
@@ -3413,46 +3605,6 @@
         "role": "участник",
         "registration_id": 8,
         "created_at": "2026-10-13T09:55:54.361481",
-        "is_available": true
-      }
-    ]
-  },
-  {
-    "id": 7,
-    "name": "boss",
-    "institution": "Уральский технический институт связи и информатики",
-    "amount_participants": 2,
-    "participation_form": "Очная",
-    "level_education": "бакалавриат/специалитет",
-    "selected_case": 2,
-    "spare_case": 3,
-    "captain_phone": "+7 (993) 133-30-34",
-    "captain_email": "artur24455012@gmail.com",
-    "curator_data": {
-      "fio": "Митьковская Анастасия Александровна ",
-      "phone": "+7 (912) 689-12-43"
-    },
-    "agreement": true,
-    "acquaintance": true,
-    "created_at": "2026-10-05T17:09:57.358120",
-    "is_available": true,
-    "participants": [
-      {
-        "id": 31,
-        "fio": "Петров Артур Алексеевич",
-        "course": 1,
-        "role": "капитан",
-        "registration_id": 7,
-        "created_at": "2026-10-05T17:09:57.358120",
-        "is_available": true
-      },
-      {
-        "id": 32,
-        "fio": "Петров Артур Александрович",
-        "course": 1,
-        "role": "участник",
-        "registration_id": 7,
-        "created_at": "2026-10-05T17:09:57.358120",
         "is_available": true
       }
     ]
