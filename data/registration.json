@@ -1,5 +1,63 @@
 [
   {
+    "id": 84,
+    "name": "Гении помех",
+    "institution": "СибГУТИ",
+    "amount_participants": 4,
+    "participation_form": "Очная",
+    "level_education": "спо 9класс",
+    "selected_case": 6,
+    "spare_case": 1,
+    "captain_phone": "+7 (901) 414-19-08",
+    "captain_email": "masimdmitriev@yandex.ru",
+    "curator_data": {
+      "fio": "Юрченко Евгения Владимировна",
+      "phone": "+7 (904) 389-08-43"
+    },
+    "agreement": true,
+    "acquaintance": true,
+    "created_at": "2026-10-16T05:54:46.909280",
+    "is_available": true,
+    "participants": [
+      {
+        "id": 314,
+        "fio": "Нуриев Кирилл Станиславович",
+        "course": 3,
+        "role": "участник",
+        "registration_id": 84,
+        "created_at": "2026-10-16T05:54:46.909280",
+        "is_available": true
+      },
+      {
+        "id": 315,
+        "fio": "Воробьев Александр Вадимович",
+        "course": 3,
+        "role": "участник",
+        "registration_id": 84,
+        "created_at": "2026-10-16T05:54:46.909280",
+        "is_available": true
+      },
+      {
+        "id": 316,
+        "fio": "Дмитриев Максим Григорьевич",
+        "course": 3,
+        "role": "капитан",
+        "registration_id": 84,
+        "created_at": "2026-10-16T05:54:46.909280",
+        "is_available": true
+      },
+      {
+        "id": 317,
+        "fio": "Климов Александр Сергеевич",
+        "course": 3,
+        "role": "участник",
+        "registration_id": 84,
+        "created_at": "2026-10-16T05:54:46.909280",
+        "is_available": true
+      }
+    ]
+  },
+  {
     "id": 83,
     "name": "Старков Илья Игоревич",
     "institution": "УрТИСИ СибГУТИ",
