@@ -2358,21 +2358,21 @@
     "is_available": true,
     "participants": [
       {
-        "id": 134,
+        "id": 336,
         "fio": "Малыгин Александр Евгеньевич",
         "course": 2,
         "role": "капитан",
         "registration_id": 32,
-        "created_at": "2026-10-08T16:11:49.241089",
+        "created_at": "2026-10-17T07:42:39.125270",
         "is_available": true
       },
       {
-        "id": 135,
+        "id": 337,
         "fio": "Цукров Михаил Евгеньевич",
         "course": 2,
         "role": "участник",
         "registration_id": 32,
-        "created_at": "2026-10-08T16:11:49.241089",
+        "created_at": "2026-10-17T07:42:39.125270",
         "is_available": true
       }
     ]
