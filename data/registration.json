@@ -1,5 +1,45 @@
 [
   {
+    "id": 88,
+    "name": "Фиксики",
+    "institution": "Сибгути ",
+    "amount_participants": 2,
+    "participation_form": "Дистанционная",
+    "level_education": "бакалавриат/специалитет",
+    "selected_case": 1,
+    "spare_case": 6,
+    "captain_phone": "+7 (924) 802-73-78",
+    "captain_email": "dmo0000@mail.ru",
+    "curator_data": {
+      "fio": "нет кура тора",
+      "phone": "+7 (924) 802-73-78"
+    },
+    "agreement": true,
+    "acquaintance": true,
+    "created_at": "2026-10-17T04:06:45.459600",
+    "is_available": true,
+    "participants": [
+      {
+        "id": 332,
+        "fio": "туманов Захар Андреевич",
+        "course": 2,
+        "role": "участник",
+        "registration_id": 88,
+        "created_at": "2026-10-17T04:06:45.459600",
+        "is_available": true
+      },
+      {
+        "id": 333,
+        "fio": "морозов Дмитрий андреевич",
+        "course": 2,
+        "role": "капитан",
+        "registration_id": 88,
+        "created_at": "2026-10-17T04:06:45.459600",
+        "is_available": true
+      }
+    ]
+  },
+  {
     "id": 87,
     "name": "Vibecoders",
     "institution": "УрТИСИ СибГУТИ ",
