@@ -1,5 +1,371 @@
 [
   {
+    "id": 94,
+    "name": "Пятый элемент ",
+    "institution": "УрТИСИ",
+    "amount_participants": 5,
+    "participation_form": "Очная",
+    "level_education": "бакалавриат/специалитет",
+    "selected_case": 1,
+    "spare_case": 3,
+    "captain_phone": "+7 (904) 167-35-60",
+    "captain_email": "vovad2021@mail.ru",
+    "curator_data": {
+      "fio": "Юрченко Евгения Владимировна ",
+      "phone": "+7 (904) 389-08-43"
+    },
+    "agreement": true,
+    "acquaintance": true,
+    "created_at": "2026-10-19T10:26:26.767191",
+    "is_available": true,
+    "participants": [
+      {
+        "id": 361,
+        "fio": "Панкратов Владимир Михайлович",
+        "course": 1,
+        "role": "капитан",
+        "registration_id": 94,
+        "created_at": "2026-10-19T10:26:26.767191",
+        "is_available": true
+      },
+      {
+        "id": 362,
+        "fio": "Волосников Степан Яковлевич",
+        "course": 1,
+        "role": "участник",
+        "registration_id": 94,
+        "created_at": "2026-10-19T10:26:26.767191",
+        "is_available": true
+      },
+      {
+        "id": 363,
+        "fio": "Головко Алексей Сергеевич",
+        "course": 1,
+        "role": "участник",
+        "registration_id": 94,
+        "created_at": "2026-10-19T10:26:26.767191",
+        "is_available": true
+      },
+      {
+        "id": 364,
+        "fio": "Щекалёв Александр Александрович",
+        "course": 1,
+        "role": "участник",
+        "registration_id": 94,
+        "created_at": "2026-10-19T10:26:26.767191",
+        "is_available": true
+      },
+      {
+        "id": 365,
+        "fio": "Якубов Тимур Максимович",
+        "course": 1,
+        "role": "участник",
+        "registration_id": 94,
+        "created_at": "2026-10-19T10:26:26.767191",
+        "is_available": true
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "name": "Дебустеры",
+    "institution": "Уртиси СибГУТИ",
+    "amount_participants": 4,
+    "participation_form": "Очная",
+    "level_education": "бакалавриат/специалитет",
+    "selected_case": 2,
+    "spare_case": 3,
+    "captain_phone": "+7 (904) 383-92-40",
+    "captain_email": "cheremnov-1980@mail.ru",
+    "curator_data": {
+      "fio": "Пупышев Владимир Андреевич",
+      "phone": "+7 (982) 608-14-30"
+    },
+    "agreement": true,
+    "acquaintance": true,
+    "created_at": "2026-10-19T08:25:30.197024",
+    "is_available": true,
+    "participants": [
+      {
+        "id": 357,
+        "fio": "Черемнов Тимофей Павлович",
+        "course": 2,
+        "role": "капитан",
+        "registration_id": 93,
+        "created_at": "2026-10-19T08:25:30.197024",
+        "is_available": true
+      },
+      {
+        "id": 358,
+        "fio": "Петров Никита Константинович",
+        "course": 2,
+        "role": "участник",
+        "registration_id": 93,
+        "created_at": "2026-10-19T08:25:30.197024",
+        "is_available": true
+      },
+      {
+        "id": 359,
+        "fio": "Кауфман Александр Константинович",
+        "course": 1,
+        "role": "участник",
+        "registration_id": 93,
+        "created_at": "2026-10-19T08:25:30.197024",
+        "is_available": true
+      },
+      {
+        "id": 360,
+        "fio": "Русалимов Кирилл Олегович",
+        "course": 1,
+        "role": "участник",
+        "registration_id": 93,
+        "created_at": "2026-10-19T08:25:30.197024",
+        "is_available": true
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "name": "CR7 Mentality ",
+    "institution": "УрТИСИ СибГУТИ ",
+    "amount_participants": 4,
+    "participation_form": "Очная",
+    "level_education": "спо 9класс",
+    "selected_case": 2,
+    "spare_case": 1,
+    "captain_phone": "+7 (909) 026-91-06",
+    "captain_email": "gglukhov10@mail.ru",
+    "curator_data": {
+      "fio": "Бугров Антон Сергеевич",
+      "phone": "+7 (950) 645-36-83"
+    },
+    "agreement": true,
+    "acquaintance": true,
+    "created_at": "2026-10-19T08:25:24.776411",
+    "is_available": true,
+    "participants": [
+      {
+        "id": 353,
+        "fio": "Найданов Иван Сергеевич",
+        "course": 2,
+        "role": "участник",
+        "registration_id": 92,
+        "created_at": "2026-10-19T08:25:24.776411",
+        "is_available": true
+      },
+      {
+        "id": 354,
+        "fio": "Бурков Никита Андреевич",
+        "course": 2,
+        "role": "участник",
+        "registration_id": 92,
+        "created_at": "2026-10-19T08:25:24.776411",
+        "is_available": true
+      },
+      {
+        "id": 355,
+        "fio": "Глухов Глеб Дмитриевич",
+        "course": 2,
+        "role": "капитан",
+        "registration_id": 92,
+        "created_at": "2026-10-19T08:25:24.776411",
+        "is_available": true
+      },
+      {
+        "id": 356,
+        "fio": "Сахаров Марк Александрович",
+        "course": 2,
+        "role": "участник",
+        "registration_id": 92,
+        "created_at": "2026-10-19T08:25:24.776411",
+        "is_available": true
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "name": "SlaugtherTeam",
+    "institution": "БИИК СибГУТИ",
+    "amount_participants": 5,
+    "participation_form": "Дистанционная",
+    "level_education": "бакалавриат/специалитет",
+    "selected_case": 2,
+    "spare_case": 3,
+    "captain_phone": "+7 (950) 397-96-17",
+    "captain_email": "romanostapenko062004@gmail.com",
+    "curator_data": {
+      "fio": "Тюрюханова Инна Вадимовна",
+      "phone": "+7 (904) 142-90-18"
+    },
+    "agreement": true,
+    "acquaintance": true,
+    "created_at": "2026-10-19T08:15:49.758276",
+    "is_available": true,
+    "participants": [
+      {
+        "id": 348,
+        "fio": "Остапенко Роман Владимирович",
+        "course": 2,
+        "role": "капитан",
+        "registration_id": 91,
+        "created_at": "2026-10-19T08:15:49.758276",
+        "is_available": true
+      },
+      {
+        "id": 349,
+        "fio": "Бешенцев Николай Андреевич",
+        "course": 2,
+        "role": "участник",
+        "registration_id": 91,
+        "created_at": "2026-10-19T08:15:49.758276",
+        "is_available": true
+      },
+      {
+        "id": 350,
+        "fio": "Петрова Полина Евгеньевна",
+        "course": 2,
+        "role": "участник",
+        "registration_id": 91,
+        "created_at": "2026-10-19T08:15:49.758276",
+        "is_available": true
+      },
+      {
+        "id": 351,
+        "fio": "Калашникова Лидия Александровна",
+        "course": 2,
+        "role": "участник",
+        "registration_id": 91,
+        "created_at": "2026-10-19T08:15:49.758276",
+        "is_available": true
+      },
+      {
+        "id": 352,
+        "fio": "Филатов Илья Владимирович",
+        "course": 2,
+        "role": "участник",
+        "registration_id": 91,
+        "created_at": "2026-10-19T08:15:49.758276",
+        "is_available": true
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "name": "Upgrade",
+    "institution": "Волго-Вятский филиал Московского технического университета связи и информатики",
+    "amount_participants": 4,
+    "participation_form": "Дистанционная",
+    "level_education": "спо 9класс",
+    "selected_case": 3,
+    "spare_case": 1,
+    "captain_phone": "+7 (920) 048-90-78",
+    "captain_email": "Taty16ana@yandex.ru",
+    "curator_data": {
+      "fio": "Иванова Татьяна Александровна",
+      "phone": "+7 (910) 954-17-12"
+    },
+    "agreement": true,
+    "acquaintance": true,
+    "created_at": "2026-10-19T06:54:06.690109",
+    "is_available": true,
+    "participants": [
+      {
+        "id": 344,
+        "fio": "Маринина Мария Сергеевна",
+        "course": 2,
+        "role": "капитан",
+        "registration_id": 90,
+        "created_at": "2026-10-19T06:54:06.690109",
+        "is_available": true
+      },
+      {
+        "id": 345,
+        "fio": "Кирсанов Максим Александрович",
+        "course": 2,
+        "role": "участник",
+        "registration_id": 90,
+        "created_at": "2026-10-19T06:54:06.690109",
+        "is_available": true
+      },
+      {
+        "id": 346,
+        "fio": "Медведев Евгений Сергеевич",
+        "course": 2,
+        "role": "участник",
+        "registration_id": 90,
+        "created_at": "2026-10-19T06:54:06.690109",
+        "is_available": true
+      },
+      {
+        "id": 347,
+        "fio": "Сапунов Иван Александрович",
+        "course": 2,
+        "role": "участник",
+        "registration_id": 90,
+        "created_at": "2026-10-19T06:54:06.690109",
+        "is_available": true
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "name": "Бит-25",
+    "institution": "Волго-Вятский филиал Московского технического университета связи и информатики",
+    "amount_participants": 4,
+    "participation_form": "Дистанционная",
+    "level_education": "спо 9класс",
+    "selected_case": 1,
+    "spare_case": 2,
+    "captain_phone": "+7 (901) 800-67-04",
+    "captain_email": "a.s.kvasova@vvf.mtuci.ru",
+    "curator_data": {
+      "fio": "Квасова Александра Сергеевна",
+      "phone": "+7 (938) 476-73-00"
+    },
+    "agreement": true,
+    "acquaintance": true,
+    "created_at": "2026-10-19T06:52:01.547994",
+    "is_available": true,
+    "participants": [
+      {
+        "id": 340,
+        "fio": "Чуев Глеб Александрович",
+        "course": 2,
+        "role": "капитан",
+        "registration_id": 89,
+        "created_at": "2026-10-19T06:52:01.547994",
+        "is_available": true
+      },
+      {
+        "id": 341,
+        "fio": "Корнилов Артём Владимирович",
+        "course": 2,
+        "role": "участник",
+        "registration_id": 89,
+        "created_at": "2026-10-19T06:52:01.547994",
+        "is_available": true
+      },
+      {
+        "id": 342,
+        "fio": "Крестьянсков Станислав Алексеевич",
+        "course": 2,
+        "role": "участник",
+        "registration_id": 89,
+        "created_at": "2026-10-19T06:52:01.547994",
+        "is_available": true
+      },
+      {
+        "id": 343,
+        "fio": "Козлов Андрей Евгеньевич",
+        "course": 2,
+        "role": "участник",
+        "registration_id": 89,
+        "created_at": "2026-10-19T06:52:01.547994",
+        "is_available": true
+      }
+    ]
+  },
+  {
     "id": 88,
     "name": "Фиксики",
     "institution": "Сибгути ",
@@ -2344,8 +2710,8 @@
     "amount_participants": 2,
     "participation_form": "Очная",
     "level_education": "бакалавриат/специалитет",
-    "selected_case": 2,
-    "spare_case": 3,
+    "selected_case": 3,
+    "spare_case": 2,
     "captain_phone": "+7 (900) 390-13-98",
     "captain_email": "aekemerov@yandex.ru",
     "curator_data": {
@@ -2358,21 +2724,21 @@
     "is_available": true,
     "participants": [
       {
-        "id": 336,
+        "id": 338,
         "fio": "Малыгин Александр Евгеньевич",
         "course": 2,
         "role": "капитан",
         "registration_id": 32,
-        "created_at": "2026-10-17T07:42:39.125270",
+        "created_at": "2026-10-19T05:42:24.128502",
         "is_available": true
       },
       {
-        "id": 337,
+        "id": 339,
         "fio": "Цукров Михаил Евгеньевич",
         "course": 2,
         "role": "участник",
         "registration_id": 32,
-        "created_at": "2026-10-17T07:42:39.125270",
+        "created_at": "2026-10-19T05:42:24.128502",
         "is_available": true
       }
     ]
