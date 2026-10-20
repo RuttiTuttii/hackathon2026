@@ -136,8 +136,8 @@
     "captain_phone": "+7 (909) 026-91-06",
     "captain_email": "gglukhov10@mail.ru",
     "curator_data": {
-      "fio": "Бугров Антон Сергеевич",
-      "phone": "+7 (950) 645-36-83"
+      "fio": "Тупицын Константин Михайлович",
+      "phone": "+7 (902) 500-38-85"
     },
     "agreement": true,
     "acquaintance": true,
@@ -145,39 +145,39 @@
     "is_available": true,
     "participants": [
       {
-        "id": 353,
+        "id": 366,
         "fio": "Найданов Иван Сергеевич",
         "course": 2,
         "role": "участник",
         "registration_id": 92,
-        "created_at": "2026-10-19T08:25:24.776411",
+        "created_at": "2026-10-20T05:16:41.837310",
         "is_available": true
       },
       {
-        "id": 354,
+        "id": 367,
         "fio": "Бурков Никита Андреевич",
         "course": 2,
         "role": "участник",
         "registration_id": 92,
-        "created_at": "2026-10-19T08:25:24.776411",
+        "created_at": "2026-10-20T05:16:41.837310",
         "is_available": true
       },
       {
-        "id": 355,
+        "id": 368,
         "fio": "Глухов Глеб Дмитриевич",
         "course": 2,
         "role": "капитан",
         "registration_id": 92,
-        "created_at": "2026-10-19T08:25:24.776411",
+        "created_at": "2026-10-20T05:16:41.837310",
         "is_available": true
       },
       {
-        "id": 356,
+        "id": 369,
         "fio": "Сахаров Марк Александрович",
         "course": 2,
         "role": "участник",
         "registration_id": 92,
-        "created_at": "2026-10-19T08:25:24.776411",
+        "created_at": "2026-10-20T05:16:41.837310",
         "is_available": true
       }
     ]
