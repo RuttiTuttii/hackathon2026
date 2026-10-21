@@ -1256,8 +1256,8 @@
     "captain_phone": "+7 (969) 849-02-12",
     "captain_email": "maksimposohov86@gmail.com",
     "curator_data": {
-      "fio": "Левиков Артем Андреевич ",
-      "phone": "+7 (982) 612-26-50"
+      "fio": "Белых Павел Евгеньевич",
+      "phone": "+7 (905) 853-19-20"
     },
     "agreement": true,
     "acquaintance": true,
@@ -1265,48 +1265,48 @@
     "is_available": true,
     "participants": [
       {
-        "id": 268,
+        "id": 390,
         "fio": "Посохов Максим Артёмович",
         "course": 1,
         "role": "капитан",
         "registration_id": 73,
-        "created_at": "2026-10-14T11:42:55.697247",
+        "created_at": "2026-10-21T09:20:39.863968",
         "is_available": true
       },
       {
-        "id": 269,
+        "id": 391,
         "fio": "Пичугин Артем Андреевич",
         "course": 1,
         "role": "участник",
         "registration_id": 73,
-        "created_at": "2026-10-14T11:42:55.697247",
+        "created_at": "2026-10-21T09:20:39.863968",
         "is_available": true
       },
       {
-        "id": 270,
-        "fio": "Калинин Владислав Владимирович",
+        "id": 392,
+        "fio": "Калин Владислав Владимирович",
         "course": 1,
         "role": "участник",
         "registration_id": 73,
-        "created_at": "2026-10-14T11:42:55.697247",
+        "created_at": "2026-10-21T09:20:39.863968",
         "is_available": true
       },
       {
-        "id": 271,
+        "id": 393,
         "fio": "Калинин Святослав Дмитриевич",
         "course": 1,
         "role": "участник",
         "registration_id": 73,
-        "created_at": "2026-10-14T11:42:55.697247",
+        "created_at": "2026-10-21T09:20:39.863968",
         "is_available": true
       },
       {
-        "id": 272,
+        "id": 394,
         "fio": "Кукаркин Арсений Константинович",
         "course": 1,
         "role": "участник",
         "registration_id": 73,
-        "created_at": "2026-10-14T11:42:55.697247",
+        "created_at": "2026-10-21T09:20:39.863968",
         "is_available": true
       }
     ]
@@ -4219,8 +4219,8 @@
     "captain_phone": "+7 (996) 179-34-50",
     "captain_email": "Roman.lyzhin@inbox.ru",
     "curator_data": {
-      "fio": "Левиков Артём Андреевич ",
-      "phone": "+7 (982) 612-26-50"
+      "fio": "Диденко Павел Александрович",
+      "phone": "+7 (912) 204-74-02"
     },
     "agreement": true,
     "acquaintance": true,
@@ -4228,48 +4228,48 @@
     "is_available": true,
     "participants": [
       {
-        "id": 12,
+        "id": 375,
         "fio": "Лыжин Роман Иванович",
         "course": 2,
         "role": "капитан",
         "registration_id": 3,
-        "created_at": "2026-10-05T08:09:12.801011",
+        "created_at": "2026-10-21T09:08:49.667399",
         "is_available": true
       },
       {
-        "id": 13,
+        "id": 376,
         "fio": "Иванов Родион Алексеевич",
         "course": 2,
         "role": "участник",
         "registration_id": 3,
-        "created_at": "2026-10-05T08:09:12.801011",
+        "created_at": "2026-10-21T09:08:49.667399",
         "is_available": true
       },
       {
-        "id": 14,
+        "id": 377,
         "fio": "Мединский Андрей Константинович",
         "course": 2,
         "role": "участник",
         "registration_id": 3,
-        "created_at": "2026-10-05T08:09:12.801011",
+        "created_at": "2026-10-21T09:08:49.667399",
         "is_available": true
       },
       {
-        "id": 15,
+        "id": 378,
         "fio": "Зайнетдинов Рамзил Рифович",
         "course": 2,
         "role": "участник",
         "registration_id": 3,
-        "created_at": "2026-10-05T08:09:12.801011",
+        "created_at": "2026-10-21T09:08:49.667399",
         "is_available": true
       },
       {
-        "id": 16,
+        "id": 379,
         "fio": "Чепкасов Федор Андреевич",
         "course": 2,
         "role": "участник",
         "registration_id": 3,
-        "created_at": "2026-10-05T08:09:12.801011",
+        "created_at": "2026-10-21T09:08:49.667399",
         "is_available": true
       }
     ]
