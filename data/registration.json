@@ -1,5 +1,45 @@
 [
   {
+    "id": 95,
+    "name": "TechWood",
+    "institution": "СКФ МТУСИ",
+    "amount_participants": 2,
+    "participation_form": "Дистанционная",
+    "level_education": "бакалавриат/специалитет",
+    "selected_case": 6,
+    "spare_case": 5,
+    "captain_phone": "+7 (928) 115-64-03",
+    "captain_email": "romanjigg@gmail.com",
+    "curator_data": {
+      "fio": "Степанов Роман Сергеевич",
+      "phone": "+7 (928) 115-64-03"
+    },
+    "agreement": true,
+    "acquaintance": true,
+    "created_at": "2026-10-29T08:11:47.122366",
+    "is_available": true,
+    "participants": [
+      {
+        "id": 395,
+        "fio": "Степанов Роман Сергеевич",
+        "course": 3,
+        "role": "капитан",
+        "registration_id": 95,
+        "created_at": "2026-10-29T08:11:47.122366",
+        "is_available": true
+      },
+      {
+        "id": 396,
+        "fio": "Бутузова Анастасия Николаевна",
+        "course": 3,
+        "role": "участник",
+        "registration_id": 95,
+        "created_at": "2026-10-29T08:11:47.122366",
+        "is_available": true
+      }
+    ]
+  },
+  {
     "id": 94,
     "name": "Пятый элемент ",
     "institution": "УрТИСИ",
