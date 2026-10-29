@@ -1312,64 +1312,6 @@
     ]
   },
   {
-    "id": 72,
-    "name": "Команда Mountain Sword",
-    "institution": "УрТИСИ СибГУТИ",
-    "amount_participants": 4,
-    "participation_form": "Очная",
-    "level_education": "спо 9класс",
-    "selected_case": 6,
-    "spare_case": 5,
-    "captain_phone": "+7 (963) 630-22-85",
-    "captain_email": "gn8vf@yandex.ru",
-    "curator_data": {
-      "fio": "Тупицын Константин Михайлович",
-      "phone": "+7 (902) 500-38-85"
-    },
-    "agreement": true,
-    "acquaintance": true,
-    "created_at": "2026-10-14T09:11:59.810137",
-    "is_available": true,
-    "participants": [
-      {
-        "id": 254,
-        "fio": "Горшков Тимофей Евгеньевич",
-        "course": 3,
-        "role": "капитан",
-        "registration_id": 72,
-        "created_at": "2026-10-14T09:11:59.810137",
-        "is_available": true
-      },
-      {
-        "id": 255,
-        "fio": "Куницкий Данил Сергеевич",
-        "course": 3,
-        "role": "участник",
-        "registration_id": 72,
-        "created_at": "2026-10-14T09:11:59.810137",
-        "is_available": true
-      },
-      {
-        "id": 256,
-        "fio": "Назарова Полина Александровна",
-        "course": 3,
-        "role": "участник",
-        "registration_id": 72,
-        "created_at": "2026-10-14T09:11:59.810137",
-        "is_available": true
-      },
-      {
-        "id": 257,
-        "fio": "Сергеева Алиса Артемовна",
-        "course": 3,
-        "role": "участник",
-        "registration_id": 72,
-        "created_at": "2026-10-14T09:11:59.810137",
-        "is_available": true
-      }
-    ]
-  },
-  {
     "id": 70,
     "name": "NEXUS",
     "institution": "УрТИСИ СибГУТИ ",
